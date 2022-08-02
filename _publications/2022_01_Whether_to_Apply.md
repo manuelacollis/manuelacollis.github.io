@@ -25,6 +25,7 @@ surrounding required qualifications increases the rate at which qualified women 
 are more mixed for men. Our results suggest a path for increasing the pool of qualified women 
 applicants.
 
+
 [Download paper here](http://manuelacollis.github.io/files/2022_01_Whether_to_Apply.pdf)
 
 Recommended citation: Coffman, Kathrine Baldiga, Manuela R Collis, Leena Kulkarni (2022). "Whether to Apply" <i>Working Paper 1</i>.
