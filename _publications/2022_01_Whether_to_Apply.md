@@ -2,7 +2,7 @@
 title: "Whether to Apply"
 coauthors: 'Katherine B Coffman, Leena Kulkarni'
 collection: Research
-permalink: /files/2022_01_whether_to_apply.pdf
+permalink: /files/2022_01_Whether_to_Apply.pdf
 excerpt: 'Labor market outcomes depend, in part, upon an individual’s willingness to put herself 
 forward for different opportunities. We use a series of experiments to explore gender differences 
 in willingness to apply for higher return, more challenging work. We find that, in male-typed 
@@ -13,8 +13,8 @@ are more mixed for men. Our results suggest a path for increasing the pool of qu
 applicants.'
 date: 2021-01-01
 venue: 'R&R at Management Science'
-paperurl: 'http://manuelacollis.github.io/files/2022_01_whether_to_apply.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://manuelacollis.github.io/files/2022_01_Whether_to_Apply.pdf'
+citation: 'Coffman, Kathrine Baldiga, Manuela R Collis, Leena Kulkarni (2022). "Whether to Apply" <i>Working Paper 1</i>.'
 ---
 Labor market outcomes depend, in part, upon an individual’s willingness to put herself 
 forward for different opportunities. We use a series of experiments to explore gender differences 
@@ -25,6 +25,6 @@ surrounding required qualifications increases the rate at which qualified women 
 are more mixed for men. Our results suggest a path for increasing the pool of qualified women 
 applicants.
 
-[Download paper here](http://manuelacollis.github.io/files/2022_01_whether_to_apply.pdf)
+[Download paper here](http://manuelacollis.github.io/files/2022_01_Whether_to_Apply.pdf)
 
 Recommended citation: Coffman, Kathrine Baldiga, Manuela R Collis, Leena Kulkarni (2022). "Whether to Apply" <i>Working Paper 1</i>.
