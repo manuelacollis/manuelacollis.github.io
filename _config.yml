@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Manuela Collis"
-  avatar           : "manuelacollis_picture.jpeg"
-  bio              : "PhD Student"
+  avatar           : "manuela_collis_2023.jpg"
+  bio              : "Doctoral Student"
   location         : "Rotman School of Management"
   employer         : "University of Toronto"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en"
-  email            : "manuela (dot) collis (at) rotman (dot) utoronto (dot) ca"
+  email            : "manuela.collis@rotman.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
