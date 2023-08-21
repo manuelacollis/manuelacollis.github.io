@@ -27,3 +27,4 @@ model would predict. This is primarily because both men and women update their b
 in response to good news when it arrives in a more gender congruent domain
 
 [Download paper here](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf)
+
