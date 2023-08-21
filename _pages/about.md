@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Rotman School of Management, University of Toronto.
+I am a doctoral student at Rotman School of Management, University of Toronto.
 
 I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration with Specialization in Banking and Finance from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
 
