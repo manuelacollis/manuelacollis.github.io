@@ -4,7 +4,7 @@ coauthors: 'Katherine B Coffman, Leena Kulkarni'
 collection: Research
 # Use a permalink like the one below in case I want to add additional information such as additional files
 #permalink: /files/2021_01_Stereotypes_and_Belief_Updating
-permalink: /files/2021_01_Stereotypes_and_Belief_Updating.pdf
+permalink: files/2021_01_Stereotypes_and_Belief_Updating.pdf
 
 excerpt: 'We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
@@ -14,7 +14,7 @@ women). After feedback, stereotypes continue to shape posterior beliefs, even be
 model would predict. This is primarily because both men and women update their beliefs more positively 
 in response to good news when it arrives in a more gender congruent domain'
 date: 2021-01-01
-venue: 'R&R at JEEA'
+venue: 'Accepted at JEEA'
 paperurl: 'http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf'
 citation: 'Coffman, Kathrine Baldiga, Manuela R Collis, Leena Kulkarni (2022). "Stereotypes and Belief Updating" <i>Working Paper 1</i>.'
 ---
