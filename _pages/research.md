@@ -36,7 +36,7 @@ in response to good news when it arrives in a more gender congruent domain
  <i>Draft available upon request</i></li> <br/>
 
   <li><b> Workplace Hostility </b> <br/>
-  with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a> <br/> <br/>
+  with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a>  </li> <br/>
 
   <li><b>Gender Differences in Feedback: Evidence from Entrepreneurs</b> <br/>
 with <a href="https://www.daphnebaldassari.com/">Daphné Baldassari</a> and <a href="https://sites.google.com/site/mhoffman2">Mitch Hoffman</a> </li>
