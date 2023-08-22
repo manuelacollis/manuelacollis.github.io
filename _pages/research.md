@@ -11,17 +11,14 @@ redirect_from:
 
 # Publications
 
-### [Whether to Apply](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf) <i> accepted at Management Science, 2023 </i> <br>
-
+[Whether to Apply](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf) <i> accepted at Management Science, 2023 </i> <br>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
-
 <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants.
 <br>
 [[Appendix]](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply_appendix.pdf)
-
 <br>
 
-### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i> <br>
+[Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i> <br>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
@@ -32,13 +29,12 @@ model would predict. This is primarily because both men and women update their b
 in response to good news when it arrives in a more gender congruent domain
 
 
-
 # Work in Progress
-
 
 <ul>
   <li><b>Gender Gaps in Ph.D. Graduation and Scientific Publishing: A Case Study of East and West Germany </b>
- <i>Draft available upon request</i></li> <br>
+ <i>Draft available upon request</i></li> <br/>
+
   <li><b> Workplace Hostility </b> <br/>
 
 with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)
@@ -49,14 +45,6 @@ with [Daphné Baldassari](https://www.daphnebaldassari.com/) and [Mitch Hoffman]
 </ul>
 
 
-[//]: # (<b>Gender Gaps in Ph.D. Graduation and Scientific Publishing: A Case Study of East and West Germany </b>)
-
-[//]: # ()
-[//]: # (### <b> Workplace Hostility </b> <br>)
-
-[//]: # (with [Clementine Van Effenterre]&#40;https://sites.google.com/site/vaneffenterreclementine/home&#41;)
-
-[//]: # ()
 
 
 {% if author.googlescholar %}
