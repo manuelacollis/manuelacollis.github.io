@@ -39,7 +39,7 @@ in response to good news when it arrives in a more gender congruent domain
   with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a> <br/> <br/>
 
   <li><b>Gender Differences in Feedback: Evidence from Entrepreneurs</b> <br/>
-with <a href="https://www.daphnebaldassari.com/">Daphné Baldassari</a> and <a href="https://sites.google.com/site/mhoffman2">Mitch Hoffman</a>
+with <a href="https://www.daphnebaldassari.com/">Daphné Baldassari</a> and <a href="https://sites.google.com/site/mhoffman2">Mitch Hoffman</a> </li>
 
 </ul>
 
