@@ -40,33 +40,33 @@ redirect_from:
 </script>
 
 
-[//]: # (# Publications)
+# Publications
 
-[//]: # ([Whether to Apply]&#40;http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf&#41; <i> Accepted at Management Science, 2023 </i> <br>)
+[Whether to Apply](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf) <i> Accepted at Management Science, 2023 </i> <br>
 
-[//]: # (with [Katherine Baldiga Coffman]&#40;https://sites.google.com/site/kbaldigacoffman/&#41; and Leena Kulkarni <br>)
+with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 
-[//]: # (<b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself )
+<b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself 
 
-[//]: # (forward for different opportunities. We use a series of experiments to explore gender differences )
+forward for different opportunities. We use a series of experiments to explore gender differences 
 
-[//]: # (in willingness to apply for higher return, more challenging work. We find that, in male-typed )
+in willingness to apply for higher return, more challenging work. We find that, in male-typed 
 
-[//]: # (domains, qualified women are significantly less likely to apply than similarly well-qualified men. )
+domains, qualified women are significantly less likely to apply than similarly well-qualified men. 
 
-[//]: # (We provide evidence both in a controlled setting and in the field that reducing ambiguity )
+We provide evidence both in a controlled setting and in the field that reducing ambiguity 
 
-[//]: # (surrounding required qualifications increases the rate at which qualified women apply. The effects )
+surrounding required qualifications increases the rate at which qualified women apply. The effects 
 
-[//]: # (are more mixed for men. Our results suggest a path for increasing the pool of qualified women )
+are more mixed for men. Our results suggest a path for increasing the pool of qualified women 
 
-[//]: # (applicants.)
+applicants.
 
-[//]: # (<br>)
+<br>
 
-[//]: # ([[Appendix]]&#40;&#40;http://manuelacollis.github.io/files/2023_02_Whether_to_Apply_appendix.pdf&#41;&#41;)
+[[Appendix]]((http://manuelacollis.github.io/files/2023_02_Whether_to_Apply_appendix.pdf))
 
-[//]: # ()
-[//]: # ()
-[//]: # (# Work in Progress)
+
+
+# Work in Progress
 
