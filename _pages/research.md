@@ -7,6 +7,7 @@ redirect_from:
   - /research
 ---
 
+<br>
 
 # Publications
 
@@ -40,9 +41,11 @@ in response to good news when it arrives in a more gender congruent domain
  <i>Draft available upon request</i></li> <br>
   <li><b> Workplace Hostility </b> <br>
 
+
 with [Clementine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)
 </li> <br>
   <li><b>Gender Differences in Feedback: Evidence from Entrepreneurs</b> <br>
+
  
 with [Daphné Baldassari](https://www.daphnebaldassari.com/) and [Mitch Hoffman](https://sites.google.com/site/mhoffman2)</li>
 </ul>
