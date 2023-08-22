@@ -5,11 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-[//]: # ({% include base_path %})
+{% include base_path %}
 
 [//]: # ()
 [//]: # ({% for post in site.publications reversed %})
@@ -20,7 +16,7 @@ author_profile: true
 
 # Publications
 
-[Whether to Apply](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf) <i> Accepted at Management Science, 2023 </i> <br>
+[Whether to Apply](http://manuelacollis.github.io/files/2023_02_Whether_to_Apply.pdf) <i> accepted at Management Science, 2023 </i> <br>
 
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 
@@ -47,3 +43,11 @@ applicants.
 
 
 # Work in Progress
+<b> Workplace Hostility </b> <br>
+with [Clementine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)
+
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}

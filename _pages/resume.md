@@ -23,4 +23,4 @@ redirect_from:
   });
 </script>
 
-[Download resume here](http://manuelacollis.github.io/files/2023_06_Manuela_R_Collis_Resume.pdf)
+[You can download my resume here](http://manuelacollis.github.io/files/2023_06_Manuela_R_Collis_Resume.pdf)
