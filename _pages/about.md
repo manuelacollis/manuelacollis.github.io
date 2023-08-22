@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student at Rotman School of Management, University of Toronto.
+I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto and a PhD Fellow at the [Institute for Gender and the Economy (Gate)](https://www.gendereconomy.org/).
 
 I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration with Specialization in Banking and Finance from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
 
