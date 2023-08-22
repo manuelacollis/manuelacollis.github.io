@@ -36,14 +36,11 @@ in response to good news when it arrives in a more gender congruent domain
  <i>Draft available upon request</i></li> <br/>
 
   <li><b> Workplace Hostility </b> <br/>
-
-with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)
+with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a>
 </li> <br>
   <li><b>Gender Differences in Feedback: Evidence from Entrepreneurs</b> <br/>
-
-with [Daphné Baldassari](https://www.daphnebaldassari.com/) and [Mitch Hoffman](https://sites.google.com/site/mhoffman2)</li>
+with <a href="https://www.daphnebaldassari.com/">Daphné Baldassari</a> and <a href="https://sites.google.com/site/mhoffman2">Mitch Hoffman</a>
 </ul>
-
 
 
 
