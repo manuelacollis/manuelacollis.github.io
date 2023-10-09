@@ -29,4 +29,4 @@ https://www.embedpdf.com/org/7357/document/3436620a-4753-4b8f-bae8-dbea7d49bace/
 
 -->
 
-[You can download my resume here](http://manuelacollis.github.io/files/2023_08_Manuela_R_Collis_Resume.pdf)
+[You can download my resume here](http://manuelacollis.github.io/files/2023_10_Manuela_R_Collis_Resume.pdf)

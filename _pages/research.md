@@ -14,7 +14,7 @@ redirect_from:
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants. </p>
 
-### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i> </p>
+### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p> <b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
