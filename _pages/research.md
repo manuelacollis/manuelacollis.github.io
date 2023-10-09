@@ -10,14 +10,11 @@ redirect_from:
 
 # Publications
 
-### [Whether to Apply](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907) <i> Management Science, 2023 </i> <br>
-with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
-<p><b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants. </p>
-<br>
-<br>
+### [Whether to Apply](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907) <i> Management Science, 2023 </i>
+<p> with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
+<b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants. </p>
 
-
-### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i> <br>
+<p>### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i> <br>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
@@ -25,7 +22,7 @@ ability are strongly influenced by gender stereotypes: holding own ability fixed
 confident in more gender congruent domains (i.e. more male-typed for men, more female-typed for 
 women). After feedback, stereotypes continue to shape posterior beliefs, even beyond what a Bayesian 
 model would predict. This is primarily because both men and women update their beliefs more positively 
-in response to good news when it arrives in a more gender congruent domain
+in response to good news when it arrives in a more gender congruent domain. </p>
 
 
 
