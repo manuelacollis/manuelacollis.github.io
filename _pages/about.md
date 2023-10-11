@@ -18,5 +18,6 @@ In my first line of work, I study which normative and structural conditions infl
 
 In my second stream of work, I study gender gaps in the setting of entrepreneurship and innovation. 
 
+<p><b> Interested in a friendly review?</b> As part of our PhD training at Rotman, we write a referee report every semester. I'd be happy to write a friendly review for you if you are interested! My review may be particularly helpful if you planned to submit your work to Management Science, Organization Science, Strategic Management Journal, or a top (field) Econ journal and the topics & methods are related to inequality, AI/technology, organizations, entrepreneurship, strategy, behavioral economics, (lab/field/survey) experiments.</p>
 
 I’d be happy to be in touch. You can reach me at manuela (dot) collis (at) rotman (dot) utoronto (dot) ca
