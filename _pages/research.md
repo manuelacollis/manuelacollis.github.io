@@ -44,4 +44,4 @@ in response to good news when it arrives in a more gender congruent domain. </p>
 
 
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
