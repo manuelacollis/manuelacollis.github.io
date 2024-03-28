@@ -14,7 +14,7 @@ redirect_from:
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants. </p>
 
-### [Stereotypes and Belief Updating](http://manuelacollis.github.io/files/2021_01_Stereotypes_and_Belief_Updating.pdf) <i> accepted at Journal of European Economic Association, 2023 </i>
+### [Stereotypes and Belief Updating](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext) <i> Journal of European Economic Association, 2023 </i>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p> <b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
@@ -32,16 +32,10 @@ in response to good news when it arrives in a more gender congruent domain. </p>
   <li><b>Gender Gaps in Ph.D. Graduation and Scientific Publishing: A Case Study of East and West Germany </b>
  <i>Draft available upon request</i></li> <br/>
 
-  <li><b> Workplace Hostility </b> <i><a href="https://www.socialscienceregistry.org/trials/11438">[AEA Registry]</a></i><br/>
+  <li><b> <a href="https://drive.google.com/file/d/1VGVEnj4kx6mM2r8ofmQBy7A5C2Uq7sqD/view">Workplace Hostility</a> </b> <i><a href="https://www.socialscienceregistry.org/trials/11438">[AEA Registry]</a></i><br/>
   with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a> <br>
 </li> <br/>
 
-  <li><b>Gender Differences in Feedback: Evidence from Entrepreneurs</b> <br/>
-with <a href="https://www.daphnebaldassari.com/">Daphné Baldassari</a> and <a href="https://sites.google.com/site/mhoffman2">Mitch Hoffman</a> </li>
-</ul>
 
 
-
-{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
