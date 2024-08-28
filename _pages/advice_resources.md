@@ -29,7 +29,10 @@ Here I list advice that has been shared with me. If you see your advice listed h
 # On navigating Academia
 This section lists some resources and insights which helped me "demystify academia" or in other words, 
 
-
+# On Metrics
+- <b> <a href="https://causalml-book.org/" >Applied Causal Inference
+Powered by ML and AI© </a> </b> ~ by Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, Vasilis Syrgkanis <br>
+  "The book introduces ideas from classical structural equation models (SEMs) and their modern AI equivalent, directed acyclical graphs (DAGs) and structural causal models (SCMs), and presents Debiased Machine Learning methods to do inference in such models using modern predictive tools."
 
 # Organizing Quantitiative Data Projects and Code
 
@@ -83,6 +86,11 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_text_buttons
     This website provides suggestions on how to improve your writing which are precise and actionable. In addition, it offers suggestions on how to stay motivated, become a more productive writer, and how to enjoy writing more. Prof. Cayley also has an excellent book called <a href="https://explorationsofstyle.com/book/" >Thriving as a Graduate Writer </a>.
 
 
+# On Presenting
+- <b> <a href="https://kieranhealy.org/blog/archives/2018/03/24/making-slides/"> Making Slides </a> </b> ~ by Kieran Healy <br>
+  An essay on how to make slides effective.
+- <b><a> href="https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/#rule-9-group-similar-data-and-increase-white-space"> 10+ Guidelines for Better Tables in R> </a></b> ~ by Thomas Mock (based on Jon Schwabish) <br>
+  Great suggestions on how to improve your tables.
 
 
 # On Advising
