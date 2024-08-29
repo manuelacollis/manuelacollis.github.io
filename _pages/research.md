@@ -10,7 +10,7 @@ redirect_from:
 
 # Publications
 
-### Whether to Apply <i> Management Science, 2023 </i> <br>
+### Whether to Apply <i> - Management Science, 2023 </i> <br>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
@@ -21,7 +21,7 @@ for men. Our results suggest a path for increasing the pool of qualified women a
 <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907">[Link to Publication]</a></p>
 
 
-### Stereotypes and Belief Updating <i> Journal of European Economic Association, 2023 </i> <br>
+### Stereotypes and Belief Updating <i> - Journal of European Economic Association, 2023 </i> <br>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p><b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
