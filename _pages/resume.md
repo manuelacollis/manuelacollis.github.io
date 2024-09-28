@@ -20,12 +20,12 @@ redirect_from:
   const config = { 
     documentId: 'c724b57e-8e2b-49cd-bdca-34eb176c2709',
     darkMode: true, 
-    token: '' //add your server side generated security token or change your document permission to public
   };
   CloudPDF(config, document.getElementById('viewer')).then((instance) => {
     
   });
 </script>
+
 
 <!-- 
 Go here to upload a new version of my CV:
