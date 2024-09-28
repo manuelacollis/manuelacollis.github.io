@@ -17,7 +17,11 @@ redirect_from:
 <div id="viewer" style="width: 100%; height: 500px;"></div>
 <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
 <script>
-  const config = {"documentId":"750bf5fa-23f8-4ea2-89f9-3183a895e57a","darkMode":false,"themeColor":"#55abc6","appBarColored":true,"disableToolbar":false,"disableElements":["sidebar"]};
+  const config = { 
+    documentId: 'c724b57e-8e2b-49cd-bdca-34eb176c2709',
+    darkMode: true, 
+    token: '' //add your server side generated security token or change your document permission to public
+  };
   CloudPDF(config, document.getElementById('viewer')).then((instance) => {
     
   });
@@ -29,4 +33,4 @@ https://www.embedpdf.com/org/7357/document/3436620a-4753-4b8f-bae8-dbea7d49bace/
 
 -->
 
-[You can download my resume here](http://manuelacollis.github.io/files/2024_08_Manuela_R_Collis_Resume.pdf)
+[You can download my resume here](http://manuelacollis.github.io/files/2024_09_CV_Manuela_R_Collis.pdf)
