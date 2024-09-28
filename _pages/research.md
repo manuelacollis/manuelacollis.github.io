@@ -53,7 +53,8 @@ and persistently more women doctorates than West Germany. A difference-in-differ
 infers that the change in institutions, policies, and norms increase the gender gap in the intensity to
 publish. Taken together, this case study offers insights into how to increase gender diversity in science.  <br> 
  <i>Draft available upon request</i> </p>
- 
+
+
 # Work in Progress
 
 ### Hostility and Productivity <br>
@@ -61,7 +62,9 @@ with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterrecle
  <i>Piloting Stage</i>
 
 ### Sexual Misconduct and its effect on organizations, careers, and the field. <br>
-<i>Data Collection</i>
+  <i>Data Collection</i>
+
+
 <br>
 <br>
 
