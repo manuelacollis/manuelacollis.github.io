@@ -54,7 +54,7 @@ infers that the change in institutions, policies, and norms increase the gender 
 publish. Taken together, this case study offers insights into how to increase gender diversity in science.  <br> 
  <i>Draft available upon request</i> </p>
  
- # Work in Progress
+# Work in Progress
 
 ### Hostility and Productivity <br>
 with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
