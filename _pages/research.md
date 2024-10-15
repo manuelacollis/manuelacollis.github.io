@@ -59,10 +59,10 @@ publish. Taken together, this case study offers insights into how to increase ge
 
 ### Hostility and Productivity <br>
 with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
- <i>Piloting Stage</i>
+<i>Piloting Stage</i>
 
-### Sexual Misconduct and its effect on organizations, careers, and the field. <br>
-  <i>Data Collection</i>
+### Sexual Misconduct and its effect on organizations, careers, and the field <br>
+<i>Data Collection</i>
 
 
 <br>
