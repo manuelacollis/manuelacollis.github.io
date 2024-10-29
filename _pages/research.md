@@ -18,7 +18,7 @@ higher return, more challenging work. We find that, in male-typed domains, quali
 to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing 
 ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed 
 for men. Our results suggest a path for increasing the pool of qualified women applicants. <br>
-<a href="http://manuelacollis.github.io/files/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf">[Final Version]</a> <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907">[Link to Publication]</a></p>
+<a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf">[Final Version]</a> <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907">[Link to Publication]</a></p>
 
 
 ### Stereotypes and Belief Updating <i> - Journal of European Economic Association, 2024 </i> <br>
@@ -30,7 +30,7 @@ confident in more gender congruent domains (i.e. more male-typed for men, more f
 women). After feedback, stereotypes continue to shape posterior beliefs, even beyond what a Bayesian 
 model would predict. This is primarily because both men and women update their beliefs more positively 
 in response to good news when it arrives in a more gender congruent domain.  <br>
-<a href="http://manuelacollis.github.io/files/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf">[Final Version]</a> <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext">[Link to Publication]</a></p>
+<a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf">[Final Version]</a> <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext">[Link to Publication]</a></p>
 
 
 # Working Papers
