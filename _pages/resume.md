@@ -9,32 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- PDF container -->
 <div id="adobe-dc-view" style="width: 100%; height: 600px;"></div>
 
+<!-- Adobe Embed SDK -->
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+
+<!-- Initialization script wrapped with window.onload -->
 <script>
-  document.addEventListener("adobe_dc_view_sdk.ready", function() {
-    var adobeDCView = new AdobeDC.View({
-      clientId: "c35864c7b0b74a69a5d16c7675918c3b",  // Your real client ID
-      divId: "adobe-dc-view"
-    });
-    adobeDCView.previewFile({
-      content: {
-        location: {
-          url: "https://manuelacollis.github.io/files/current_CV_Manuela_R_Collis.pdf"
+  window.onload = function() {
+    document.addEventListener("adobe_dc_view_sdk.ready", function() {
+      const adobeDCView = new AdobeDC.View({
+        clientId: "c35864c7b0b74a69a5d16c7675918c3b",  // Your Adobe client ID
+        divId: "adobe-dc-view"
+      });
+
+      adobeDCView.previewFile({
+        content: {
+          location: {
+            url: "https://manuelacollis.github.io/files/current_CV_Manuela_R_Collis.pdf"
+          }
+        },
+        metaData: {
+          fileName: "CV_Manuela_R_Collis.pdf"
         }
-      },
-      metaData: {
-        fileName: "CV_Manuela_R_Collis.pdf"
-      }
-    }, {
-      embedMode: "SIZED_CONTAINER",
-      showDownloadPDF: true,
-      showPrintPDF: true,
-      showFullScreen: true
+      }, {
+        embedMode: "SIZED_CONTAINER",
+        showDownloadPDF: true,
+        showPrintPDF: true,
+        showFullScreen: true
+      });
     });
-  });
+  };
 </script>
+
 
 
 
