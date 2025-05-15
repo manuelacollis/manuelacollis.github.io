@@ -1,11 +1,8 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Manuela R. Collis – CV Viewer</title>
     <meta charset="utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <style>
         body {
@@ -62,22 +59,23 @@
     </style>
 </head>
 <body>
+    <!-- Scrollable PDF Viewer -->
     <div class="pdf-container">
         <div id="adobe-dc-view"></div>
     </div>
 
+    <!-- Download Button -->
     <a
-      href="https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
-      class="download-btn"
-      download
-      target="_blank"
+        href="https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
+        class="download-btn"
+        download
+        target="_blank"
     >
-      Click here to download the CV.
+        Click here to download the CV.
     </a>
 
-    <!-- Adobe Viewer SDK -->
+    <!-- Adobe Embed SDK -->
     <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-
     <script>
         document.addEventListener("adobe_dc_view_sdk.ready", function () {
             const adobeDCView = new AdobeDC.View({
