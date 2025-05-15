@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EmbedPDF Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@embedpdf/viewer@1.0.0/dist/viewer.css"
+  />
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: #f0f0f0;
+    }
+    #viewer {
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div id="viewer"></div>
+
+  <script src="https://unpkg.com/@embedpdf/viewer@1.0.0/dist/viewer.js"></script>
+  <script>
+    const viewer = new EmbedPDFViewer({
+      container: document.getElementById("viewer"),
+      document: {
+        url: "https://manuelacollis.github.io/files/current_CV_Manuela_R_Collis.pdf"
+      },
+      config: {
+        scrollMode: "vertical",
+        spreadMode: "none",
+        defaultZoom: "fit-width",
+        enableToolbar: true
+      }
+    });
+
+    viewer.load();
+  </script>
+</body>
+</html>

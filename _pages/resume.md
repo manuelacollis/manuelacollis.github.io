@@ -9,45 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div id="adobe-dc-view" style="width: 100%; height: 600px;"></div>
-<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
-
-<script>
-  window.onload = function () {
-    if (window.AdobeDC) {
-      initAdobeViewer();
-    } else {
-      document.addEventListener("adobe_dc_view_sdk.ready", initAdobeViewer);
-    }
-
-    function initAdobeViewer() {
-      const adobeDCView = new AdobeDC.View({
-        clientId: "c35864c7b0b74a69a5d16c7675918c3b",
-        divId: "adobe-dc-view"
-      });
-
-      adobeDCView.previewFile({
-        content: {
-          location: {
-            url: "https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
-          }
-        },
-        metaData: {
-          fileName: "CV_Manuela_R_Collis.pdf"
-        }
-      }, {
-        embedMode: "SIZED_CONTAINER",
-        showDownloadPDF: true,
-        showPrintPDF: true,
-        showFullScreen: true
-      });
-    }
-  };
-</script>
-
-
-
-
 
 
 
