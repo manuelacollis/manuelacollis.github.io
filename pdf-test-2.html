@@ -1,185 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF.js Viewer</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-    <style>
-        #pdf-container {
-            width: 100%;
-            margin: 0 auto;
-        }
-        
-        #pdf-viewer {
-            width: 100%;
-            border: 1px solid #ccc;
-            margin-bottom: 20px;
-        }
-        
-        .pdf-page-canvas {
-            display: block;
-            margin: 10px auto;
-            border: 1px solid #ddd;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-        }
-        
-        #page-controls {
-            text-align: center;
-            margin: 10px 0;
-        }
-        
-        button {
-            padding: 5px 10px;
-            margin: 0 5px;
-            cursor: pointer;
-        }
-        
-        #page-num {
-            display: inline-block;
-            margin: 0 10px;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manuela Collis CV Viewer</title>
+  <link href="https://cdn.embedpdf.com/viewer/v1/viewer.css" rel="stylesheet" />
 </head>
-<body>
-    <h1>PDF.js Viewer</h1>
-    
-    <div id="pdf-container">
-        <div id="page-controls">
-            <button id="prev">Previous</button>
-            <span id="page-num">Page: 1 / 1</span>
-            <button id="next">Next</button>
-            <button id="zoom-in">Zoom In</button>
-            <button id="zoom-out">Zoom Out</button>
-        </div>
-        
-        <div id="pdf-viewer"></div>
-    </div>
-    
-    <script>
-        // Configure PDF.js worker
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-        
-        // PDF file URL
-        const pdfUrl = 'https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf';
-        
-        // Variables for PDF viewer
-        let pdfDoc = null;
-        let pageNum = 1;
-        let pageRendering = false;
-        let pageNumPending = null;
-        let scale = 1.0;
-        const container = document.getElementById('pdf-viewer');
-        
-        // Fetch and render the PDF
-        async function loadPDF() {
-            try {
-                const loadingTask = pdfjsLib.getDocument(pdfUrl);
-                pdfDoc = await loadingTask.promise;
-                
-                document.getElementById('page-num').textContent = `Page: ${pageNum} / ${pdfDoc.numPages}`;
-                
-                // Initial render
-                renderPage(pageNum);
-            } catch (error) {
-                console.error('Error loading PDF:', error);
-                container.textContent = 'Error loading PDF. Please try again later.';
-            }
-        }
-        
-        // Render a specific page
-        async function renderPage(num) {
-            pageRendering = true;
-            
-            // Remove previous page if it exists
-            while (container.firstChild) {
-                container.removeChild(container.firstChild);
-            }
-            
-            try {
-                const page = await pdfDoc.getPage(num);
-                const viewport = page.getViewport({ scale });
-                
-                // Create canvas for this page
-                const canvas = document.createElement('canvas');
-                canvas.className = 'pdf-page-canvas';
-                canvas.width = viewport.width;
-                canvas.height = viewport.height;
-                container.appendChild(canvas);
-                
-                const context = canvas.getContext('2d');
-                const renderContext = {
-                    canvasContext: context,
-                    viewport: viewport
-                };
-                
-                const renderTask = page.render(renderContext);
-                await renderTask.promise;
-                
-                pageRendering = false;
-                
-                // If another page rendering is pending, process it
-                if (pageNumPending !== null) {
-                    renderPage(pageNumPending);
-                    pageNumPending = null;
-                }
-            } catch (error) {
-                console.error('Error rendering page:', error);
-                pageRendering = false;
-            }
-        }
-        
-        // Queue page rendering
-        function queueRenderPage(num) {
-            if (pageRendering) {
-                pageNumPending = num;
-            } else {
-                renderPage(num);
-            }
-        }
-        
-        // Previous page
-        function onPrevPage() {
-            if (pageNum <= 1) {
-                return;
-            }
-            pageNum--;
-            document.getElementById('page-num').textContent = `Page: ${pageNum} / ${pdfDoc.numPages}`;
-            queueRenderPage(pageNum);
-        }
-        
-        // Next page
-        function onNextPage() {
-            if (pageNum >= pdfDoc.numPages) {
-                return;
-            }
-            pageNum++;
-            document.getElementById('page-num').textContent = `Page: ${pageNum} / ${pdfDoc.numPages}`;
-            queueRenderPage(pageNum);
-        }
-        
-        // Zoom in
-        function onZoomIn() {
-            scale += 0.25;
-            queueRenderPage(pageNum);
-        }
-        
-        // Zoom out
-        function onZoomOut() {
-            if (scale > 0.25) {
-                scale -= 0.25;
-                queueRenderPage(pageNum);
-            }
-        }
-        
-        // Attach event listeners
-        document.getElementById('prev').addEventListener('click', onPrevPage);
-        document.getElementById('next').addEventListener('click', onNextPage);
-        document.getElementById('zoom-in').addEventListener('click', onZoomIn);
-        document.getElementById('zoom-out').addEventListener('click', onZoomOut);
-        
-        // Load the PDF when the page loads
-        window.onload = loadPDF;
-    </script>
+<body style="margin:0;">
+  <div id="pdf-viewer" style="height: 100vh;"></div>
+
+  <script src="https://cdn.embedpdf.com/viewer/v1/viewer.js"></script>
+  <script>
+    const viewer = new window.EmbedPDFViewer({
+      container: document.getElementById('pdf-viewer'),
+      document: {
+        url: 'https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf'
+      },
+      config: {
+        scrollMode: 'vertical',
+        spreadMode: 'none',
+        defaultZoom: 'fit-width',
+        enableToolbar: true
+      }
+    });
+
+    viewer.load();
+  </script>
 </body>
 </html>
