@@ -4,24 +4,34 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Manuela Collis CV Viewer</title>
-  <link href="https://cdn.embedpdf.com/viewer/v1/viewer.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@embedpdf/viewer@1/dist/viewer.css" />
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+    }
+    #viewer {
+      height: 100vh;
+      width: 100%;
+    }
+  </style>
 </head>
-<body style="margin:0;">
-  <div id="pdf-viewer" style="height: 100vh;"></div>
+<body>
+  <div id="viewer"></div>
 
-  <script src="https://cdn.embedpdf.com/viewer/v1/viewer.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@embedpdf/viewer@1/dist/viewer.js"></script>
   <script>
-    const viewer = new window.EmbedPDFViewer({
-      container: document.getElementById('pdf-viewer'),
+    const viewer = new EmbedPDFViewer({
+      container: document.getElementById('viewer'),
       document: {
-        url: 'https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf'
+        url: 'https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf',
       },
       config: {
         scrollMode: 'vertical',
         spreadMode: 'none',
         defaultZoom: 'fit-width',
-        enableToolbar: true
-      }
+        enableToolbar: true,
+      },
     });
 
     viewer.load();
