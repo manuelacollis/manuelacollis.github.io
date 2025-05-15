@@ -9,25 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- PDF container -->
 <div id="adobe-dc-view" style="width: 100%; height: 600px;"></div>
-
-<!-- Adobe Embed SDK -->
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 
-<!-- Initialization script wrapped with window.onload -->
 <script>
-  window.onload = function() {
-    document.addEventListener("adobe_dc_view_sdk.ready", function() {
+  window.onload = function () {
+    if (window.AdobeDC) {
+      initAdobeViewer();
+    } else {
+      document.addEventListener("adobe_dc_view_sdk.ready", initAdobeViewer);
+    }
+
+    function initAdobeViewer() {
       const adobeDCView = new AdobeDC.View({
-        clientId: "c35864c7b0b74a69a5d16c7675918c3b",  // Your Adobe client ID
+        clientId: "c35864c7b0b74a69a5d16c7675918c3b",
         divId: "adobe-dc-view"
       });
 
       adobeDCView.previewFile({
         content: {
           location: {
-            url: "https://manuelacollis.github.io/files/current_CV_Manuela_R_Collis.pdf"
+            url: "https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
           }
         },
         metaData: {
@@ -39,7 +41,7 @@ redirect_from:
         showPrintPDF: true,
         showFullScreen: true
       });
-    });
+    }
   };
 </script>
 
