@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
 <div id="adobe-dc-view" style="width: 100%; height: 600px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script>
