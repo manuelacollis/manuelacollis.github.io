@@ -35,7 +35,7 @@
 </script> -->
 
 
-<div id="adobe-dc-view" style="width: 100%; height: 100vh; margin: 0 auto;"></div>
+<!-- <div id="adobe-dc-view" style="width: 90%; height: 100vh; margin: 0 auto;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 
 <script>
@@ -63,6 +63,62 @@
         }
       }, {
         embedMode: "IN_LINE",
+        showDownloadPDF: true,
+        showPrintPDF: true,
+        showFullScreen: true
+      });
+    }
+  };
+</script> -->
+
+
+<style>
+  #adobe-dc-view {
+    width: 90%;
+    max-width: 850px; /* 8.5in */
+    aspect-ratio: 8.5 / 11; /* letter size aspect ratio */
+    margin: 0 auto;
+    height: auto;
+    min-height: 100vh;
+  }
+
+  @media (max-width: 768px) {
+    #adobe-dc-view {
+      padding: 0 10px;
+      width: 100%;
+      aspect-ratio: auto;
+    }
+  }
+</style>
+
+<div id="adobe-dc-view"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+
+<script>
+  window.onload = function () {
+    if (window.AdobeDC) {
+      initAdobeViewer();
+    } else {
+      document.addEventListener("adobe_dc_view_sdk.ready", initAdobeViewer);
+    }
+
+    function initAdobeViewer() {
+      const adobeDCView = new AdobeDC.View({
+        clientId: "f1f319d22b0945059978e7d5039b772e",
+        divId: "adobe-dc-view"
+      });
+
+      adobeDCView.previewFile({
+        content: {
+          location: {
+            url: "https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
+          }
+        },
+        metaData: {
+          fileName: "CV_Manuela_R_Collis.pdf"
+        }
+      }, {
+        embedMode: "IN_LINE", // scrollable multi-page layout
         showDownloadPDF: true,
         showPrintPDF: true,
         showFullScreen: true
