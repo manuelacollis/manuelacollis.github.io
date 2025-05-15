@@ -73,25 +73,28 @@
 
 
 <style>
-  #adobe-dc-view {
+  .pdf-scroll-wrapper {
     width: 90%;
-    max-width: 850px; /* 8.5in */
-    aspect-ratio: 8.5 / 11; /* letter size aspect ratio */
+    max-width: 850px;      /* Letter size width */
+    height: 90vh;          /* Fixed height container */
+    overflow-y: auto;      /* Scroll enabled */
     margin: 0 auto;
-    height: auto;
-    min-height: 100vh;
+    border: 1px solid #ccc;
+    border-radius: 8px;
   }
 
   @media (max-width: 768px) {
-    #adobe-dc-view {
-      padding: 0 10px;
+    .pdf-scroll-wrapper {
       width: 100%;
-      aspect-ratio: auto;
+      height: 80vh;
     }
   }
 </style>
 
-<div id="adobe-dc-view"></div>
+<div class="pdf-scroll-wrapper">
+  <div id="adobe-dc-view"></div>
+</div>
+
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 
 <script>
@@ -118,7 +121,7 @@
           fileName: "CV_Manuela_R_Collis.pdf"
         }
       }, {
-        embedMode: "IN_LINE", // scrollable multi-page layout
+        embedMode: "IN_LINE",
         showDownloadPDF: true,
         showPrintPDF: true,
         showFullScreen: true
