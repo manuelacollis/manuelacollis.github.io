@@ -15,6 +15,50 @@ redirect_from:
 
 
 
+<embed src="files/current_CV_Manuela_R_Collis.pdf" type="application/pdf" width="100%" height="600px" />
+
+
+
+<div id="pdf-viewer" style="width: 100%; height: 600px;"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+<script>
+  // The workerSrc property needs to be specified
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.worker.min.js';
+
+  // Path to your PDF
+  const pdfUrl = 'files/current_CV_Manuela_R_Collis.pdf';
+  
+  // Create the PDF viewer
+  const loadingTask = pdfjsLib.getDocument(pdfUrl);
+  loadingTask.promise.then(function(pdf) {
+    // Create a container for pages
+    const container = document.getElementById('pdf-viewer');
+    container.style.overflow = 'auto';
+    
+    // Load first page initially
+    pdf.getPage(1).then(function(page) {
+      const scale = 1.5;
+      const viewport = page.getViewport({ scale: scale });
+      
+      // Prepare canvas using PDF page dimensions
+      const canvas = document.createElement('canvas');
+      const context = canvas.getContext('2d');
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+      container.appendChild(canvas);
+      
+      // Render PDF page into canvas context
+      const renderContext = {
+        canvasContext: context,
+        viewport: viewport
+      };
+      page.render(renderContext);
+    });
+    
+    // You could add navigation controls here if needed
+  });
+</script>
+
 
 <div id="viewer" style="width: 100%; height: 500px;"></div>
 <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
