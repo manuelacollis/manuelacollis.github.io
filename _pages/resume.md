@@ -34,3 +34,9 @@ https://www.embedpdf.com/org/7357/document/3436620a-4753-4b8f-bae8-dbea7d49bace/
 -->
 
 [You can download my resume here](http://manuelacollis.github.io/files/current_CV_Manuela_R_Collis.pdf)
+
+
+
+<object data="files/current_CV_Manuela_R_Collis.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="files/current_CV_Manuela_R_Collis.pdf">Download the PDF</a> instead.</p>
+</object>
