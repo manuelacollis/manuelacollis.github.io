@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-
-
-
 <div id="viewer" style="width: 100%; height: 500px;"></div>
 <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
 <script>
