@@ -1,4 +1,4 @@
-<div id="adobe-dc-view" style="width: 80%; height: 850px;"></div>
+<!-- <div id="adobe-dc-view" style="width: 100%; height: 600px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 
 <script>
@@ -32,4 +32,81 @@
       });
     }
   };
-</script>
+</script> -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    .container {
+      width: 100%;
+      max-width: 800px;
+    }
+    #adobe-dc-view {
+      width: 600px;
+      height: 800px;
+      margin: 0 auto;
+      border: 1px solid #ddd;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    @media (max-width: 768px) {
+      #adobe-dc-view {
+        width: 100%;
+        height: 700px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="adobe-dc-view"></div>
+  </div>
+
+  <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+  <script>
+    window.onload = function () {
+      if (window.AdobeDC) {
+        initAdobeViewer();
+      } else {
+        document.addEventListener("adobe_dc_view_sdk.ready", initAdobeViewer);
+      }
+
+      function initAdobeViewer() {
+        const adobeDCView = new AdobeDC.View({
+          clientId: "f1f319d22b0945059978e7d5039b772e",
+          divId: "adobe-dc-view"
+        });
+
+        adobeDCView.previewFile({
+          content: {
+            location: {
+              url: "https://manuelacollis.com/files/current_CV_Manuela_R_Collis.pdf"
+            }
+          },
+          metaData: {
+            fileName: "CV_Manuela_R_Collis.pdf"
+          }
+        }, {
+          embedMode: "SIZED_CONTAINER",
+          showDownloadPDF: true,
+          showPrintPDF: true,
+          showFullScreen: true,
+          dockPageControls: false,
+          showAnnotationTools: false,
+          defaultViewMode: "FIT_PAGE",
+          zoom: 1.2,
+          enableFormFilling: false
+        });
+      }
+    };
+  </script>
+</body>
+</html>
