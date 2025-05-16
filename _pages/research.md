@@ -42,7 +42,7 @@ with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterrecle
 
 
 
-### Gender Gaps in Ph.D. Graduation and Scientific Publishing: Evidence from East and West Germany <br>
+### Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification. <br>
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know
 little about how to achieve it. A rapidly growing literature that focuses on patenting documents a
 persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and
