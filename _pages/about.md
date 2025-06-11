@@ -13,6 +13,8 @@ I am a doctoral student in Strategic Management at Rotman School of Management, 
 
 I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration with Specialization in Banking and Finance from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
 
+I will be on the 2025-2026 academic job market.
+
 
 <!-- 
 

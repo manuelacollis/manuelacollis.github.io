@@ -34,6 +34,11 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 
 
 # Working Papers
+<!-- 
+### Sexual Misconduct and Scientific Production
+<p> <b><i>Abstract:</i></b> Coming Soon <br>
+<a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> <a href="https://osf.io/zx3gu">[OSF Registry]</a></p>
+-->
 
 ### Workplace Hostility <br>
 with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
@@ -55,6 +60,14 @@ and persistently more women doctorates than West Germany. A difference-in-differ
 infers that the change in institutions, policies, and norms increase the gender gap in the intensity to
 publish. Taken together, this case study offers insights into how to increase gender diversity in science.  <br> 
  <i>Draft available upon request</i> </p>
+
+
+# Selected Work in Progress
+
+### Productivity under Hostility <br>
+with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
+<p> <b><i>Abstract:</i></b> We propose a laboratory experiment to explore how hostile work environment impacts individual and group performance differentially by gender. We study behaviors in a contribution game with five rounds. Our experiment has two levels of randomization. After completing a baseline performance measurement,  individuals are randomly assigned to a group of 4.The gender composition of the group varies accordingly to two treatments: 1F3M, 3F1M. The quality of the work environment in the experiment is randomized to be either friendly or unfriendly and is randomized at the group level. Participants are able to communicate with their team members and the variation in work environment is introduced by the content of messages. Participants are able to select one or more messages among twelve pre-specified messages. They can also decide not to send any messages. These messages are noisy in the sense that a computer sometimes augments a group member and sends a message on their behalf. We test the effect of hostility on individuals' contribution decisions and performance, individual’s self-reported stress level, perception of the quality of the work environment, and likelihood of participating in the experiment again. In the last part of the main experiment, we elicit their willingness-to-pay for payoff scheme, quality of exchange, and location.  <br>
+<a href="https://www.socialscienceregistry.org/trials/14927">[AEA Registry]</a></p>
 
 
 <!-- 
