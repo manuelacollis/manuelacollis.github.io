@@ -34,11 +34,11 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 
 
 # Working Papers
-<!-- 
+
 ### Sexual Misconduct and Scientific Production
 <p> <b><i>Abstract:</i></b> Coming Soon <br>
-<a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> <a href="https://osf.io/zx3gu">[OSF Registry]</a></p>
--->
+<!-- <a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> --> <a href="https://osf.io/zx3gu">[OSF Registry, can be accessed once embargo has expired]</a></p>
+
 
 ### Workplace Hostility <br>
 with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
