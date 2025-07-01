@@ -8,15 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow.
+I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow and affiliate.
 
 
-I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration with Specialization in Banking and Finance from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
+I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
+
+My work investigates how hostile and exclusionary environments for women generate organizational and societal costs. These environments—ranging from workplaces marked by sexual misconduct and harassment to gendered beliefs, national institutions, and norms that constrain women’s labor-market participation—generate costs not only for affected individuals but also for productivity, human capital allocation, and broader economic outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work and has already been published in <i>Management Science</i> and the <i>Journal of the European Economic Association</i>.
 
 I will be on the 2025-2026 academic job market.
 
 
+I will attend the Academy of Management Annual Meeting and the Strategic Management Society Annual Meeting. Please don't hesitate to reach out if you'd like to meet with me. You can also learn about my work at one of my conference presentations, listed below.
+
+<br>Academy of Management:</br>
+Monday, July 28, 2025 from 12:00 PM to 13:30 PM.
+Location: Bella Center Hall, A- A1-m8
+Paper: Workplace Hostility
+
+Tuesday, July 29, 2025 from 12:00 PM to 13:00 PM.
+Location: Bella Center, MR16
+Paper: Sexual Harassment and Scientific Production
+
+<br>Strategic Management Society Annual Meeting:</br>
+Paper: Workplace Hostility
+<i>Nominated for the Responsible Research Paper Prize</i>
+
+
+
 <!-- 
+<i> Session 12906: Challenging Workplace Hostility: How Collective Action Can Address Sexual Harassment</i>
+
+<i> Session 12135: Sexual Misconduct in the Workplace: Organizational Consequences and the Role of Toxic Culture </i>
+
 
 As an organizational scholar, I focus on understanding the underlying mechanisms of gender disparities in professional contexts, as well as identifying interventions that can mitigate them. In my first stream of work, I investigate the impact of workplace climate on gender representation in organizations and organizational outcomes – and how hybrid and teamwork shape these outcomes. This body of work directly informs key aspects of the future of work, particularly as hybrid and remote work models and teamwork become more prevalent. First, I show that hybrid and remote work arrangements shape the tolerance of workplace hostility. As more organizations adopt more flexible forms of work arrangements, understanding these dynamics is essential for creating inclusive and productive workplaces in the future. Second, technological advancements have facilitated the shift towards remote and hybrid work. My work examines the human and social implications of these technological shifts, offering insight into how technology might shape the future of work environments. Third, my ongoing experimental work on hostility and productivity provides insights into how interpersonal dynamics affect team performance. As teamwork remains a cornerstone (and becomes more prevalent) in many industries, understanding these effects is vital for understanding the factors driving organizational effectiveness in the future.
 
@@ -36,5 +59,3 @@ I study which normative and structural conditions influence a qualified and tale
 
 I have a latent interest in education, technology, and entrepreneurship and innovation.
 -->
-
-I’d be happy to be in touch. You can reach me at manuela (dot) collis (at) rotman (dot) utoronto (dot) ca
