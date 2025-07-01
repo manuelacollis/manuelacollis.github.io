@@ -7,8 +7,57 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p>
+  I am a doctoral student in Strategic Management at the Rotman School of Management, University of Toronto; a PhD Fellow at the
+  <a href="https://www.gendereconomy.org/">Institute for Gender and the Economy (GATE)</a>; and a 2024–25
+  <a href="https://srinstitute.utoronto.ca/">Schwartz Reisman Institute for Technology and Society (SRI)</a> graduate fellow and current affiliate.
+</p>
 
-I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow and affiliate.
+<p>
+  I hold an M.A. in Law and Diplomacy from the Fletcher School at Tufts University and a B.Sc. in Business Administration from the
+  Bern University of Applied Sciences, Switzerland. Prior to joining the PhD program, I was a Research Associate at Harvard Business School.
+</p>
+
+<p>
+  My research examines how hostile and exclusionary environments for women generate organisational and societal costs. Such contexts—ranging from
+  workplaces characterised by sexual misconduct and harassment to gendered beliefs, national institutions, and norms that restrict women’s
+  labour-market participation—impose costs not only on affected individuals but also on productivity, human-capital allocation, and broader
+  economic outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric
+  methods to uncover the structural and behavioral mechanisms that perpetuate disparities. My work contributes to the literatures on workplace
+  inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the
+  <i>Journal of the European Economic Association</i>.
+</p>
+
+<p>I will be on the 2025–26 academic job market.</p>
+
+<p>
+  I will attend the Academy of Management Annual Meeting and the Strategic Management Society Annual Meeting. Please don't hesitate to
+  contact me if you would like to meet. You can also learn more about my work at the conference presentations listed below.
+</p>
+
+<h3>Academy of Management Annual Meeting</h3>
+<ul>
+  <li>
+    <strong>Monday, 28&nbsp;July&nbsp;2025&nbsp;│ 12:00–13:30</strong><br>
+    Bella Center Hall, A-A1-M8<br>
+    Paper: <i>Workplace Hostility</i>
+  </li>
+  <li>
+    <strong>Tuesday, 29&nbsp;July&nbsp;2025&nbsp;│ 12:00–13:00</strong><br>
+    Bella Center, MR16<br>
+    Paper: <i>Sexual Harassment and Scientific Production</i>
+  </li>
+</ul>
+
+<h3>Strategic Management Society Annual Meeting</h3>
+<ul>
+  <li>
+    Paper: <i>Workplace Hostility</i><br>
+    <i>Nominated for the Responsible Research Paper Prize</i>
+  </li>
+</ul>
+
+<!-- I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow and affiliate.
 
 
 I hold a MA in Law and Diplomacy from the Fletcher School at Tufts University, USA, and a BSc in Business Administration from Bern University of Applied Sciences, Switzerland. Prior to joining the Ph.D. Program, I was a Research Associate at Harvard Business School.
@@ -35,7 +84,6 @@ Paper: Workplace Hostility
 
 
 
-<!-- 
 <i> Session 12906: Challenging Workplace Hostility: How Collective Action Can Address Sexual Harassment</i>
 
 <i> Session 12135: Sexual Misconduct in the Workplace: Organizational Consequences and the Role of Toxic Culture </i>
