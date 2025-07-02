@@ -43,9 +43,9 @@ redirect_from:
     Paper: <i>Workplace Hostility</i>
   </li>
   <li>
-    <strong>Tuesday, 29&nbsp;July&nbsp;2025&nbsp;│ 12:00–13:00</strong><br>
+    <strong>Tuesday, 29&nbsp;July&nbsp;2025&nbsp;│ 12:00–13:30</strong><br>
     Bella Center, MR16<br>
-    Paper: <i>Sexual Harassment and Scientific Production</i>
+    Paper: <i>Sexual Harassment and Scientific Production (Job Market Paper) </i>
   </li>
 </ul>
 
