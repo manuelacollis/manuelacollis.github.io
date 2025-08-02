@@ -31,7 +31,7 @@ redirect_from:
 <p>I will be on the 2025–26 academic job market.</p>
 
 <p>
-  I will attend the Academy of Management Annual Meeting,  the Strategic Management Society Annual Meeting, and Wharton's People and Organizations conference. Please don't hesitate to contact me if you would like to meet. You can also learn more about my work at the conference presentations listed below.
+  I will attend the Academy of Management Annual Meeting, the Strategic Management Society Annual Meeting, Wharton's People and Organizations conference, and the Conference on Field Experiments in Strategy. Please don't hesitate to contact me if you would like to meet. You can also learn more about my work at the conference presentations listed below.
 </p>
 
 <h3>Academy of Management Annual Meeting</h3>
