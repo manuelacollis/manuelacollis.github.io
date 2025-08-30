@@ -10,8 +10,8 @@ redirect_from:
 
 # Publications
 
-### Whether to Apply (2024) <i> -  Management Science 70, no. 7: 4649-4669. </i>
-with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni
+<strong style="font-size: 1.2em;">Whether to Apply (2024)</strong> <i> -  Management Science 70, no. 7: 4649-4669. </i><br>
+with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni<br>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
 higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely 
@@ -20,9 +20,8 @@ ambiguity surrounding required qualifications increases the rate at which qualif
 for men. Our results suggest a path for increasing the pool of qualified women applicants. <br>
 <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf">[Final Version]</a> <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907">[Link to Publication]</a></p>
 
-
-### Stereotypes and Belief Updating (2024) <i> - Journal of the European Economic Association 22, no. 3: 1011-1054. </i>
-with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni
+<strong style="font-size: 1.2em;">Stereotypes and Belief Updating (2024)</strong> <i> - Journal of the European Economic Association 22, no. 3: 1011-1054. </i><br>
+with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
 <p><b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
 ability are strongly influenced by gender stereotypes: holding own ability fixed, individuals are more 
