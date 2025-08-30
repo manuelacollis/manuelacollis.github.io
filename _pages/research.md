@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 
-## Publications
+# Publications
 
 <div style="font-size: 1.1em;"><strong>Whether to Apply (2024)</strong>  <i> -  Management Science 70, no. 7: 4649-4669. </i><br>
 with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div>
@@ -32,7 +32,7 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf">[Final Version]</a> <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext">[Link to Publication]</a></p>
 
 
-## Working Papers
+# Working Papers
 
 <div style="font-size: 1.1em;"><strong>Sexual Misconduct and Scientific Production</strong><br></div>
 <p> <b><i>Abstract:</i></b> Coming Soon <br>
@@ -40,7 +40,7 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 
 
 <div style="font-size: 1.1em;"><strong>Workplace Hostility (2025)</strong> <br>
-with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)</div>
+with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></div>
 <p> <b><i>Abstract:</i></b> Workplace hostility is one of the main drivers of employee resignation. We investigate how much individuals value a workplace free of hostility and whether this can be offset with hybrid or solo work arrangements. We conduct a choice survey experiment with 2,048 participants, recruited among upper-year students, recent graduates, and alums from a large public university. Our experiment shows that people are willing to forgo a significant portion of their earnings to avoid hostile work environments—15 to 30 percent of their wage. Women report a stronger preference for inclusive workplaces and environments free of sexual harassment. We also find that women value hybrid work twice as much in the presence of sexual harassment and value teamwork more in non- inclusive environments. We propose a model of compensating differentials to understand how the presence of hostility shapes the demand for alternative work arrangements and to implement policy counterfactuals. <br>
 <a href="http://manuelacollis.github.io/files/Collis_Van_Effenterre_Workplace_Hostility_2025.pdf">[Paper Draft]</a> <a href="https://www.socialscienceregistry.org/trials/11438">[AEA Registry]</a></p>
 
@@ -50,7 +50,7 @@ with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterrecle
  <i>Draft available upon request</i> </p>
 
 
-## Selected Work in Progress
+# Selected Work in Progress
 
 <div style="font-size: 1.1em;"><strong>Productivity under Hostility</strong><br>
 with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></div>
