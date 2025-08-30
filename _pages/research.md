@@ -10,7 +10,7 @@ redirect_from:
 
 # Publications
 
-### Whether to Apply (2024) <i> -  Management Science 70, no. 7 (2024): 4649-4669. </i>
+### Whether to Apply (2024) <i> -  Management Science 70, no. 7: 4649-4669. </i>
 with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
@@ -41,13 +41,13 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 
 
 ### Workplace Hostility
-with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home) <br>
+with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)
 <p> <b><i>Abstract:</i></b> Workplace hostility is one of the main drivers of employee resignation. We investigate how much individuals value a workplace free of hostility and whether this can be offset with hybrid or solo work arrangements. We conduct a choice survey experiment with 2,048 participants, recruited among upper-year students, recent graduates, and alums from a large public university. Our experiment shows that people are willing to forgo a significant portion of their earnings to avoid hostile work environments—15 to 30 percent of their wage. Women report a stronger preference for inclusive workplaces and environments free of sexual harassment. We also find that women value hybrid work twice as much in the presence of sexual harassment and value teamwork more in non- inclusive environments. We propose a model of compensating differentials to understand how the presence of hostility shapes the demand for alternative work arrangements and to implement policy counterfactuals. <br>
 <a href="http://manuelacollis.github.io/files/Collis_Van_Effenterre_Workplace_Hostility_2025.pdf">[Paper Draft]</a> <a href="https://www.socialscienceregistry.org/trials/11438">[AEA Registry]</a></p>
 
 
 
-### Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification. <br>
+### Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification. 
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know
 little about how to achieve it. A rapidly growing literature that focuses on patenting documents a
 persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and
