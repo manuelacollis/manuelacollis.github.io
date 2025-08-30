@@ -20,6 +20,8 @@ ambiguity surrounding required qualifications increases the rate at which qualif
 for men. Our results suggest a path for increasing the pool of qualified women applicants. <br>
 <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf">[Final Version]</a> <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907">[Link to Publication]</a></p>
 
+<br>
+
 <div style="font-size: 1.1em;"><strong>Stereotypes and Belief Updating (2024)</strong>  <i> - Journal of the European Economic Association 22, no. 3:1011-1054. </i><br>
 with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div>
 <p><b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
@@ -31,7 +33,7 @@ model would predict. This is primarily because both men and women update their b
 in response to good news when it arrives in a more gender congruent domain.  <br>
 <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf">[Final Version]</a> <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext">[Link to Publication]</a></p>
 
-<br>
+<br><br>
 
 # Working Papers
 
@@ -39,19 +41,20 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 <p> <b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these incidents affect departmental scientific productivity. These are misconduct cases that experienced subsequent public reporting, for the most part through news reporting. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on productivity in most departments when it occurs, but public reporting &mdash; for example, through media outlets &mdash; reduces publications by 0.1 per faculty member annually, equivalent to ten fewer publications over five years for a 20-member department. This work suggests that organizations might find themselves in a double bind where they have to balance responding to calls for increased transparency while being required to protect the privacy of all parties involved against the organizational costs arising from public discourse about sexual misconduct incidents.<br>
 <!-- <a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> --> <a href="https://osf.io/zx3gu">[OSF Registry, can be accessed once embargo has expired]</a></p>
 
-
+<br>
 
 <div style="font-size: 1.1em;"><strong>Workplace Hostility (2025)</strong> <br>
 with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></div>
 <p> <b><i>Abstract:</i></b> Workplace hostility is one of the main drivers of employee resignation. We investigate how much individuals value a workplace free of hostility and whether this can be offset with hybrid or solo work arrangements. We conduct a choice survey experiment with 2,048 participants, recruited among upper-year students, recent graduates, and alums from a large public university. Our experiment shows that people are willing to forgo a significant portion of their earnings to avoid hostile work environments—15 to 30 percent of their wage. Women report a stronger preference for inclusive workplaces and environments free of sexual harassment. We also find that women value hybrid work twice as much in the presence of sexual harassment and value teamwork more in non- inclusive environments. We propose a model of compensating differentials to understand how the presence of hostility shapes the demand for alternative work arrangements and to implement policy counterfactuals. <br>
 <a href="http://manuelacollis.github.io/files/Collis_Van_Effenterre_Workplace_Hostility_2025.pdf">[Paper Draft]</a> <a href="https://www.socialscienceregistry.org/trials/11438">[AEA Registry]</a></p>
 
+<br>
 
 <div style="font-size: 1.1em;"><strong>Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification</strong><br></div>
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know little about how to achieve it. A rapidly growing literature that focuses on patenting documents a persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and study women's decisions to complete graduate school and their propensity and intensity to publish under two different institutional and normative settings. To explore this question, I turn to the German reunification in 1990 as my empirical setting. At that time, East and West Germany show sizable differences in institutional incentives and attitudes toward working women. Using a newly assembled dataset of German Ph.D. graduates in STEM fields, I show that East Germany graduates significantly and persistently more women doctorates than West Germany. A difference-in-difference approach infers that the change in institutions, policies, and norms increase the gender gap in the intensity to publish. Taken together, this case study offers insights into how to increase gender diversity in science. <br> 
  <i>Draft available upon request</i> </p>
 
-<br>
+<br><br>
 
 # Selected Work in Progress
 
