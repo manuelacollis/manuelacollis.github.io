@@ -48,6 +48,14 @@ redirect_from:
   </li>
 </ul>
 
+
+<h3>Wharton's People and Organizations</h3>
+<ul>
+  <li>
+    Paper: <i>Sexual Misconduct and Scientific Production (Job Market Paper)</i>
+  </li>
+</ul>
+
 <h3>Strategic Management Society Annual Meeting</h3>
 <ul>
   <li>
@@ -55,6 +63,16 @@ redirect_from:
     <i>Nominated for the Responsible Research Paper Prize</i>
   </li>
 </ul>
+
+
+<h3>Conference on Field Experiments in Strategy</h3>
+<ul>
+  <li>
+    Paper: <i>Productivity under Hostility</i>
+  </li>
+</ul>
+
+
 
 <!-- I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow and affiliate.
 
