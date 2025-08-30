@@ -10,8 +10,8 @@ redirect_from:
 
 # Publications
 
-### Whether to Apply (2024) <i> Management Science 70, no. 7 (2024): 4649-4669. </i>
-with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
+### Whether to Apply (2024) <i> -  Management Science 70, no. 7 (2024): 4649-4669. </i>
+with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
 higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely 
@@ -22,7 +22,7 @@ for men. Our results suggest a path for increasing the pool of qualified women a
 
 
 ### Stereotypes and Belief Updating (2024) <i> - Journal of the European Economic Association 22, no. 3: 1011-1054. </i>
-with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni <br>
+with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni
 <p><b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
 ability are strongly influenced by gender stereotypes: holding own ability fixed, individuals are more 
