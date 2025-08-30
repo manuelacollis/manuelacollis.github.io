@@ -31,6 +31,7 @@ model would predict. This is primarily because both men and women update their b
 in response to good news when it arrives in a more gender congruent domain.  <br>
 <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf">[Final Version]</a> <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext">[Link to Publication]</a></p>
 
+<br>
 
 # Working Papers
 
@@ -50,6 +51,7 @@ with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Cléme
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know little about how to achieve it. A rapidly growing literature that focuses on patenting documents a persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and study women's decisions to complete graduate school and their propensity and intensity to publish under two different institutional and normative settings. To explore this question, I turn to the German reunification in 1990 as my empirical setting. At that time, East and West Germany show sizable differences in institutional incentives and attitudes toward working women. Using a newly assembled dataset of German Ph.D. graduates in STEM fields, I show that East Germany graduates significantly and persistently more women doctorates than West Germany. A difference-in-difference approach infers that the change in institutions, policies, and norms increase the gender gap in the intensity to publish. Taken together, this case study offers insights into how to increase gender diversity in science. <br> 
  <i>Draft available upon request</i> </p>
 
+<br>
 
 # Selected Work in Progress
 
