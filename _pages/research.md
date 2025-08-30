@@ -11,7 +11,7 @@ redirect_from:
 ## Publications
 
 <div style="font-size: 1.1em;"><strong>Whether to Apply</strong> (2024) <i> -  Management Science 70, no. 7: 4649-4669. </i><br>
-with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div><br>
+with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
 higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely 
