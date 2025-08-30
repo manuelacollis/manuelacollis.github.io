@@ -10,7 +10,7 @@ redirect_from:
 
 # Publications
 
-<div style="font-size: 1.1em;"><strong>Whether to Apply (2024)</strong>  <i> -  Management Science 70, no. 7: 4649-4669. </i><br>
+<div style="font-size: 1.1em;"><strong>Whether to Apply (2024)  <i> -  Management Science 70, no. 7: 4649-4669. </i></strong><br>
 with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div>
 <p> <b><i>Abstract:</i></b> Labor market outcomes depend, in part, upon an individual’s willingness to put herself forward 
 for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for 
@@ -22,7 +22,7 @@ for men. Our results suggest a path for increasing the pool of qualified women a
 
 <br>
 
-<div style="font-size: 1.1em;"><strong>Stereotypes and Belief Updating (2024)</strong>  <i> - Journal of the European Economic Association 22, no. 3:1011-1054. </i><br>
+<div style="font-size: 1.1em;"><strong>Stereotypes and Belief Updating (2024) <i> - Journal of the European Economic Association 22, no. 3:1011-1054. </i></strong><br>
 with <a href="https://sites.google.com/site/kbaldigacoffman/">Katherine Baldiga Coffman</a> and Leena Kulkarni</div>
 <p><b><i>Abstract:</i></b> We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants 
 in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own 
@@ -37,7 +37,7 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 
 # Working Papers
 
-<div style="font-size: 1.1em;"><strong>Sexual Misconduct and Scientific Production</strong> <i> - Job Market Paper </i><br></div>
+<div style="font-size: 1.1em;"><strong>Sexual Misconduct and Scientific Production</strong> <i> - Job Market Paper </i></strong></div><br>
 <p> <b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these incidents affect departmental scientific productivity. These are misconduct cases that experienced subsequent public reporting, for the most part through news reporting. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on productivity in most departments when it occurs, but public reporting &mdash; for example, through media outlets &mdash; reduces publications by 0.1 per faculty member annually, equivalent to ten fewer publications over five years for a 20-member department. This work suggests that organizations might find themselves in a double bind where they have to balance responding to calls for increased transparency while being required to protect the privacy of all parties involved against the organizational costs arising from public discourse about sexual misconduct incidents.<br>
 <!-- <a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> --> <a href="https://osf.io/zx3gu">[OSF Registry, can be accessed once embargo has expired]</a></p>
 
@@ -50,7 +50,7 @@ with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Cléme
 
 <br>
 
-<div style="font-size: 1.1em;"><strong>Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification</strong><br></div>
+<div style="font-size: 1.1em;"><strong>Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification</strong></div>
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know little about how to achieve it. A rapidly growing literature that focuses on patenting documents a persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and study women's decisions to complete graduate school and their propensity and intensity to publish under two different institutional and normative settings. To explore this question, I turn to the German reunification in 1990 as my empirical setting. At that time, East and West Germany show sizable differences in institutional incentives and attitudes toward working women. Using a newly assembled dataset of German Ph.D. graduates in STEM fields, I show that East Germany graduates significantly and persistently more women doctorates than West Germany. A difference-in-difference approach infers that the change in institutions, policies, and norms increase the gender gap in the intensity to publish. Taken together, this case study offers insights into how to increase gender diversity in science. <br> 
  <i>Draft available upon request</i> </p>
 
