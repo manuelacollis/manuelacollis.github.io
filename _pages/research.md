@@ -50,7 +50,7 @@ with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Cléme
 
 <br>
 
-<div style="font-size: 1.1em;"><strong>Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification</strong></div>
+<div style="font-size: 1.1em;"><strong>Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification (2023)</strong></div>
 <p> <b><i>Abstract:</i></b> Gender diversity is a key driver of the rate and direction of innovative activities, but we know little about how to achieve it. A rapidly growing literature that focuses on patenting documents a persistent gender gap in innovative activities. I look at the pipeline of potential female inventors and study women's decisions to complete graduate school and their propensity and intensity to publish under two different institutional and normative settings. To explore this question, I turn to the German reunification in 1990 as my empirical setting. At that time, East and West Germany show sizable differences in institutional incentives and attitudes toward working women. Using a newly assembled dataset of German Ph.D. graduates in STEM fields, I show that East Germany graduates significantly and persistently more women doctorates than West Germany. A difference-in-difference approach infers that the change in institutions, policies, and norms increase the gender gap in the intensity to publish. Taken together, this case study offers insights into how to increase gender diversity in science. <br> 
  <i>Draft available upon request</i> </p>
 
