@@ -75,7 +75,7 @@ redirect_from:
 <h3>National Bureau of Economic Research Productivity Seminar </h3>
 <ul>
   <li>    
-  <strong>Tuesday, 28&nbsp;October&nbsp;2025&nbsp;│ 12:00–13:30</strong>
+  <strong>Tuesday, 28&nbsp;October&nbsp;2025&nbsp;</strong><br>
     Paper: <i>Sexual Misconduct and Scientific Production</i>
   </li>
 </ul>
