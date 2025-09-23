@@ -28,7 +28,7 @@ redirect_from:
   <i>Journal of the European Economic Association</i>.
 </p>
 
-<p>I will be on the 2025–26 academic job market.</p>
+<p>I am on the 2025–26 academic job market. I am <strong>authorized to work in the United States, the European Economic Area and the UK</strong>, holding a Swiss citizenship and a U.S. Green Card.</p>
 
 <p>
   I will attend the Academy of Management Annual Meeting, the Strategic Management Society Annual Meeting, Wharton's People and Organizations conference, and the Conference on Field Experiments in Strategy. Please don't hesitate to contact me if you would like to meet. You can also learn more about my work at the conference presentations listed below.
@@ -72,7 +72,13 @@ redirect_from:
   </li>
 </ul>
 
-
+<h3>National Bureau of Economic Research Productivity Seminar </h3>
+<ul>
+  <li>    
+  <strong>Tuesday, 28&nbsp;October&nbsp;2025&nbsp;│ 12:00–13:30</strong>
+    Paper: <i>Sexual Misconduct and Scientific Production</i>
+  </li>
+</ul>
 
 <!-- I am a doctoral student in Strategic Management at Rotman School of Management, University of Toronto, a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/), and a 2024-25 [Schwartz Reisman Institute of Technology and Society (SRI)](https://srinstitute.utoronto.ca/) graduate fellow and affiliate.
 
