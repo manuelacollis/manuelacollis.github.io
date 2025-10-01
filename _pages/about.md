@@ -28,7 +28,8 @@ redirect_from:
   <i>Journal of the European Economic Association</i>.
 </p>
 
-<p>I am on the 2025–26 academic job market. I am <strong>authorized to work in the United States, the European Economic Area and the UK</strong>, holding a Swiss citizenship and a U.S. Green Card.</p>
+<p>I am on the 2025–26 academic job market. </p>
+<!--  I am <strong>authorized to work in the United States, the European Economic Area and the UK</strong>, holding a Swiss citizenship and a U.S. Green Card. -->
 
 <p>
   I will attend the Academy of Management Annual Meeting, the Strategic Management Society Annual Meeting, Wharton's People and Organizations conference, and the Conference on Field Experiments in Strategy. Please don't hesitate to contact me if you would like to meet. You can also learn more about my work at the conference presentations listed below.
