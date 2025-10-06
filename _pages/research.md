@@ -8,6 +8,15 @@ redirect_from:
 ---
 <br>
 
+# Job Market Paper
+
+<div style="font-size: 1.1em;"><strong>Sexual Misconduct and Scientific Production </strong></div>
+<p> <b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these publicly reported incidents affect departmental scientific productivity. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on departmental productivity when it occurs, but public reporting reduces publications by 0.1 per faculty member annually &mdash equivalent to nine fewer publications over five years for a median department of 18 members. These findings reveal that organizational costs arise specifically from public disclosure rather than from the misconduct itself. This distinction between occurrence and disclosure effects suggests that protecting victims and maintaining productivity may require differentiated policy approaches as institutions navigate competing demands from legal frameworks, ethical obligations, and performance concerns. These dynamics help explain both why social pressures transform misconduct from HR concerns into strategic organizational challenges and why firms may prioritize confidentiality strategies.
+<br>
+<a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> <a href="https://osf.io/zx3gu">[OSF Registry]</a></p>
+
+<br>
+
 # Publications
 
 <div style="font-size: 1.1em;"><strong>Whether to Apply (2024)  <i> -  Management Science 70, no. 7: 4649-4669 </i></strong><br>
@@ -36,13 +45,6 @@ in response to good news when it arrives in a more gender congruent domain.  <br
 <br><br>
 
 # Working Papers
-
-<div style="font-size: 1.1em;"><strong>Sexual Misconduct and Scientific Production <i> - Job Market Paper </i></strong></div>
-<p> <b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these publicly reported incidents affect departmental scientific productivity. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on departmental productivity when it occurs, but public reporting reduces publications by 0.1 per faculty member annually &mdash equivalent to nine fewer publications over five years for a median department of 18 members. These findings reveal that organizational costs arise specifically from public disclosure rather than from the misconduct itself. This distinction between occurrence and disclosure effects suggests that protecting victims and maintaining productivity may require differentiated policy approaches as institutions navigate competing demands from legal frameworks, ethical obligations, and performance concerns. These dynamics help explain both why social pressures transform misconduct from HR concerns into strategic organizational challenges and why firms may prioritize confidentiality strategies.
-<br>
-<a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf">[Paper Draft]</a> <a href="https://osf.io/zx3gu">[OSF Registry]</a></p>
-
-<br>
 
 <div style="font-size: 1.1em;"><strong>Workplace Hostility </strong> <br>
 with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></div>
