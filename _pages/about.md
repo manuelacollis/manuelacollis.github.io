@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-  I am a doctoral student in Strategic Management at the Rotman School of Management, University of Toronto; a PhD Fellow at the
+  I am a doctoral candidate in Strategic Management at the Rotman School of Management, University of Toronto; a PhD Fellow at the
   <a href="https://www.gendereconomy.org/">Institute for Gender and the Economy (GATE)</a>; and a 2024–25
   <a href="https://srinstitute.utoronto.ca/">Schwartz Reisman Institute for Technology and Society (SRI)</a> graduate fellow and current affiliate.
 </p>
@@ -19,14 +19,11 @@ redirect_from:
 </p>
 
 <p>
-  My research examines how hostile and exclusionary environments for women generate organisational and societal costs. Such contexts—ranging from
-  workplaces characterised by sexual misconduct and harassment to gendered beliefs, national institutions, and norms that restrict women’s
-  labour-market participation—impose costs not only on affected individuals but also on productivity, human-capital allocation, and broader
-  economic outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric
-  methods to uncover the structural and behavioral mechanisms that perpetuate disparities. My work contributes to the literatures on workplace
-  inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the
-  <i>Journal of the European Economic Association</i>.
+   In my current work, I examine how hostile and exclusionary conditions—ranging from sexual misconduct and harassment to gendered institutional norms—generate organizational and societal costs beyond individual harm, affecting productivity, human capital allocation, and broader innovation outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the <i>Journal of the European Economic Association</i>.
 </p>
+
+
+
 
 <p>I am on the 2025–26 academic job market. </p>
 <!--  I am <strong>authorized to work in the United States, the European Economic Area and the UK</strong>, holding a Swiss citizenship and a U.S. Green Card. -->
