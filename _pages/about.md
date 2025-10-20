@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p>
   I am a doctoral candidate in Strategic Management at the Rotman School of Management, University of Toronto; a PhD Fellow at the
   <a href="https://www.gendereconomy.org/">Institute for Gender and the Economy (GATE)</a>; and a 2024–25
@@ -15,11 +16,19 @@ redirect_from:
 
 <p>
   I hold an M.A. in Law and Diplomacy from the Fletcher School at Tufts University and a B.Sc. in Business Administration from the
-  Bern University of Applied Sciences, Switzerland. Prior to joining the PhD program, I was a Research Associate at Harvard Business School.
+  Bern University of Applied Sciences, Switzerland. Prior to my doctoral studies, I was a Research Associate at Harvard Business School.
 </p>
 
 <p>
-   In my current work, I examine how hostile and exclusionary conditions—ranging from sexual misconduct and harassment to gendered institutional norms—generate organizational and societal costs beyond individual harm, affecting productivity, human capital allocation, and broader innovation outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the <i>Journal of the European Economic Association</i>.
+  I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. I am committed to research transparency and credibility, pre-registering all of my studies - including archival work - to ensure methodological rigor and reproducibility. In practice, this means I work on problems that sit at the boundaries of existing literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior.
+</p>
+
+<p>
+  Two convictions anchor my work. First, I believe in technological innovation as a vehicle for raising living standards and expanding personal freedoms. Second, I care about equal opportunity, upward mobility, and the full harnessing of talent and ideas — wherever they come from. These interests converge in my research on how we can build organizations and institutions that enable both innovation and inclusion.
+</p>
+
+<p>
+  In my current work, I examine how hostile and exclusionary conditions — from sexual misconduct and harassment to gendered institutional norms — generate organizational and societal costs that extend far beyond individual harm, affecting productivity, human capital allocation, and innovation outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate these disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the <i>Journal of the European Economic Association</i>.
 </p>
 
 
