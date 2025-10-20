@@ -20,11 +20,11 @@ redirect_from:
 </p>
 
 <p>
-  I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. I am committed to research transparency and credibility, pre-registering all of my studies - including archival work - to ensure methodological rigor and reproducibility. In practice, this means I work on problems that sit at the boundaries of existing literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior.
+  I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. In practice, this means I work on problems that sit at the boundaries of existing literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior. I am committed to research transparency and credibility, pre-registering all of my studies - including archival work - to ensure methodological rigor and reproducibility.
 </p>
 
 <p>
-  Two convictions anchor my work. First, I believe in technological innovation as a vehicle for raising living standards and expanding personal freedoms. Second, I care about equal opportunity, upward mobility, and the full harnessing of talent and ideas — wherever they come from. These interests converge in my research on how we can build organizations and institutions that enable both innovation and inclusion.
+  Two convictions anchor my work. First, I am interested in technological innovation as a vehicle for raising living standards, and expanding personal freedoms. Second, I care about equal opportunity, upward mobility, and the full harnessing of talent and ideas — wherever they come from. These interests converge in my current and emerging research on how we can build organizations and institutions that enable both innovation and inclusion, and on understanding how to shape emerging technologies to center around societal benefits.
 </p>
 
 <p>
