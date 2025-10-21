@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  I am a doctoral candidate in Strategic Management at the Rotman School of Management, University of Toronto; a PhD Fellow at the
+  I am a doctoral candidate at the Rotman School of Management, University of Toronto; a PhD Fellow at the
   <a href="https://www.gendereconomy.org/">Institute for Gender and the Economy (GATE)</a>; and a 2024–25
   <a href="https://srinstitute.utoronto.ca/">Schwartz Reisman Institute for Technology and Society (SRI)</a> graduate fellow and current affiliate.
 </p>
