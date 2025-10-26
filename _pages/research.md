@@ -7,9 +7,10 @@ redirect_from:
   - /research
 ---
 
-<p style="margin-top: -10px; margin-bottom: 30px;">
-<a href="https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Google Scholar Profile</a>
+<p style="margin-top: -10px; margin-bottom: 30px; font-size: 0.95em;">
+<a href="https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en">Link to Google Scholar profile.</a>
 </p>
+<br>
 
 <br>
 
