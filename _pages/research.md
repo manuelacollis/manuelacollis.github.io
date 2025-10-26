@@ -40,7 +40,8 @@ redirect_from:
   
   <p style="margin-top: 12px;">
     <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Final Version</a>
-    <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Link to Publication</a>
+    <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Link to Publication</a>
+    <a href="https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2023.4907" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Replication Files</a>
   </p>
 </div>
 
@@ -55,7 +56,8 @@ redirect_from:
   
   <p style="margin-top: 12px;">
     <a href="http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Final Version</a>
-    <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Link to Publication</a>
+    <a href="https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976?redirectedFrom=fulltext" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Link to Publication</a>
+    <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jeea/22/3/10.1093_jeea_jvad063/2/jvad063_sbu_coffman_collis_kulkarni_data_and_code.zip?Expires=1764465298&Signature=YSyvxl1nW-rf0vLAKsFbje7NF~Ee23wdcEekeVTlP~BQChJI1CbaBfhTd~~~pI8GDMu8vG1lo5fAgE7DnMQaIKV2Zh~R1L07cizyJmJ2BywrprGSKkX3cwXRWlGRYcXlHKXKYZx5pOOalHmy7H32R0p1IEPny0NfZ3J4vBxdxDtwPfYJi588wqNleZVMKx4Fcbt0e1cWd8gtIWnh7Ex1UdJEnZh2nBj0tG3wA2aw9jbypjnErdosWzVtkv6~q7xkvJ60U9BNinE84Fesl4YQSeTTGoAzu59fA2sHXlH8J9QCgkmugee~3JbQY0NrmxCaltjuZWphvkoYqs3JgFXPcg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Replication Files</a>
   </p>
 </div>
 
