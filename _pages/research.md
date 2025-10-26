@@ -12,8 +12,6 @@ redirect_from:
 </p>
 <br>
 
-<br>
-
 # Job Market Paper
 
 <div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 50px;">
