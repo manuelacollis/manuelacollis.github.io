@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /research
 ---
-
+<br>
 <p style="margin-top: -10px; margin-bottom: 30px; font-size: 0.95em;">
 <a href="https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en">Link to Google Scholar profile.</a>
 </p>
