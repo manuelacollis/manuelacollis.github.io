@@ -20,7 +20,7 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.7; margin-bottom: 20px;">
-  I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. In practice, this means I work on problems that sit at the boundaries of existing literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior. I am committed to research transparency and reproducibility and thus pre-register my studies - including archival work - and provide replication files for my papers.
+  I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. In practice, this means I work on problems that sit at the boundaries of various literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior. I am committed to research transparency and reproducibility and thus pre-register my studies - including archival work - and provide replication files for my papers.
 </p>
 
 <p style="line-height: 1.7; margin-bottom: 20px;">
