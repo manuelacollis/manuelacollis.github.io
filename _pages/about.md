@@ -28,10 +28,10 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.7; margin-bottom: 30px;">
-  In my current work, I examine how hostile and exclusionary conditions — from sexual misconduct and harassment to gendered institutional norms — generate organizational and societal costs that extend far beyond individual harm, affecting productivity, human capital allocation, and innovation outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate these disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work, and has been published in <i>Management Science</i> and the <i>Journal of the European Economic Association</i>.
+  In my current work, I examine how hostile and exclusionary conditions — from sexual misconduct and harassment to gendered institutional norms — generate organizational and societal costs that extend far beyond individual harm, affecting productivity, human capital allocation, and innovation outcomes. Using field, survey, and laboratory experiments alongside large-scale archival data, I apply advanced econometric methods to uncover the structural and behavioral mechanisms that perpetuate these disparities. My research contributes to literatures on workplace inequality, scientific production, and the evolving nature of work.
 </p>
 
-<div style="background-color: #f5f3f2; border-left: 4px solid #7B6D68; padding: 20px; margin: 30px 0;">
+<!-- <div style="background-color: #f5f3f2; border-left: 4px solid #7B6D68; padding: 20px; margin: 30px 0;">
   <p style="font-size: 1.1em; margin: 0; font-weight: 500;">I am on the 2025–26 academic job market.</p>
 </div>
 
@@ -93,4 +93,4 @@ redirect_from:
       <span style="font-style: italic;">Sexual Misconduct and Scientific Production</span>
     </li>
   </ul>
-</div>
+</div> -->

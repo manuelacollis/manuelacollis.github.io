@@ -12,20 +12,6 @@ redirect_from:
 </p>
 
 
-# Job Market Paper
-
-<div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 50px;">
-  <div style="font-size: 1.05em; margin-bottom: 8px;"><strong>Sexual Misconduct and Scientific Production</strong></div>
-  
-  <p style="font-size: 0.95em; line-height: 1.6; color: #333;"><b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these publicly reported incidents affect departmental scientific productivity. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on departmental productivity when it occurs, but public reporting reduces publications by 0.1 per faculty member annually &mdash; equivalent to nine fewer publications over five years for a median department of 18 members. These findings reveal that organizational costs arise specifically from public disclosure rather than from the misconduct itself. This distinction between occurrence and disclosure effects suggests that protecting victims and maintaining productivity may require differentiated policy approaches as institutions navigate competing demands from legal frameworks, ethical obligations, and performance concerns. These dynamics help explain both why social pressures transform misconduct from HR concerns into strategic organizational challenges and why firms may prioritize confidentiality strategies.</p>
-  
-  <p style="margin-top: 12px;">
-    <a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Paper Draft</a>
-    <a href="https://osf.io/zx3gu" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">OSF Registry</a>
-  </p>
-</div>
-
-<br>
 
 # Publications
 
@@ -65,9 +51,22 @@ redirect_from:
 
 # Working Papers
 
+<div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 50px;">
+  <div style="font-size: 1.05em; margin-bottom: 8px;"><strong>Sexual Misconduct and Scientific Production</strong></div>
+  
+  <p style="font-size: 0.95em; line-height: 1.6; color: #333;"><b><i>Abstract:</i></b> While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these publicly reported incidents affect departmental scientific productivity. Using the benefit of hindsight, I record the year sexual misconduct occurs and the year it becomes public. I employ coarsened exact matching and a staggered difference-in-differences design to compare control departments with those that experienced subsequently publicized misconduct incidents. Sexual misconduct shows no discernible effect on departmental productivity when it occurs, but public reporting reduces publications by 0.1 per faculty member annually &mdash; equivalent to nine fewer publications over five years for a median department of 18 members. These findings reveal that organizational costs arise specifically from public disclosure rather than from the misconduct itself. This distinction between occurrence and disclosure effects suggests that protecting victims and maintaining productivity may require differentiated policy approaches as institutions navigate competing demands from legal frameworks, ethical obligations, and performance concerns. These dynamics help explain both why social pressures transform misconduct from HR concerns into strategic organizational challenges and why firms may prioritize confidentiality strategies.</p>
+  
+  <p style="margin-top: 12px;">
+    <a href="http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf" style="display: inline-block; padding: 6px 14px; margin-right: 10px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">Paper Draft</a>
+    <a href="https://osf.io/zx3gu" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">OSF Registry</a>
+  </p>
+</div>
+
+
 <div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 40px;">
   <div style="font-size: 1.05em; margin-bottom: 8px;">
     <strong>Workplace Hostility</strong><br>
+    <span style="font-size: 0.95em;"><i>Submitted for Review</i></span><br>
     <span style="font-size: 0.95em;">with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></span>
   </div>
   
@@ -78,6 +77,8 @@ redirect_from:
     <a href="https://www.socialscienceregistry.org/trials/11438" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">AEA Registry</a>
   </p>
 </div>
+
+
 
 <div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 50px;">
   <div style="font-size: 1.05em; margin-bottom: 8px;">
