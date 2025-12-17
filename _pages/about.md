@@ -19,9 +19,6 @@ redirect_from:
   Bern University of Applied Sciences, Switzerland. Prior to my doctoral studies, I was a Research Associate at Harvard Business School.
 </p>
 
-<<<<<<< Updated upstream
-<p style="line-height: 1.7; margin-bottom: 20px;">
-=======
 <!-- <p style="line-height: 1.7; margin-bottom: 20px;">
   I will be joining Carnegie Mellon University's Heinz College of Information Systems and Public Policy as an Assistant Professor in July 2026.
 </p> -->
