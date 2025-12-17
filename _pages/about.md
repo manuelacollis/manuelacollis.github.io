@@ -19,7 +19,15 @@ redirect_from:
   Bern University of Applied Sciences, Switzerland. Prior to my doctoral studies, I was a Research Associate at Harvard Business School.
 </p>
 
+<<<<<<< Updated upstream
 <p style="line-height: 1.7; margin-bottom: 20px;">
+=======
+<!-- <p style="line-height: 1.7; margin-bottom: 20px;">
+  I will be joining Carnegie Mellon University's Heinz College of Information Systems and Public Policy as an Assistant Professor in July 2026.
+</p> -->
+
+<!-- <p style="line-height: 1.7; margin-bottom: 20px;">
+>>>>>>> Stashed changes
   I am an organizational scholar motivated by research questions at the intersection of technology, innovation, and society. I study how organizations mediate the relationship between societal forces and technological progress, with particular attention to the social conditions that shape knowledge work and innovation outcomes. In practice, this means I work on problems that sit at the boundaries of various literatures, drawing on theories, methods, and perspectives from across the social sciences such as sociology, economics, and organizational behavior. I am committed to research transparency and reproducibility and thus pre-register my studies - including archival work - and provide replication files for my papers.
 </p>
 
