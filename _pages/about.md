@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="line-height: 1.7; margin-bottom: 20px;">
-  I am a doctoral candidate at the Rotman School of Management, University of Toronto; a PhD Fellow at the
+  I am a doctoral candidate at the <a href="https://www.rotman.utoronto.ca/">Rotman School of Management, University of Toronto</a>; a PhD Fellow at the
   <a href="https://www.gendereconomy.org/">Institute for Gender and the Economy (GATE)</a>; and a 2024–25
   <a href="https://srinstitute.utoronto.ca/">Schwartz Reisman Institute for Technology and Society (SRI)</a> graduate fellow and current affiliate.
 </p>
@@ -17,6 +17,11 @@ redirect_from:
 <p style="line-height: 1.7; margin-bottom: 20px;">
   I hold an M.A. in Law and Diplomacy from the Fletcher School at Tufts University and a B.Sc. in Business Administration from the
   Bern University of Applied Sciences, Switzerland. Prior to my doctoral studies, I was a Research Associate at Harvard Business School.
+</p>
+
+<p style="line-height: 1.7; margin-bottom: 20px;">
+  I will join <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University (Heinz College)</a>
+  as an Assistant Professor in July 2026.
 </p>
 
 <!-- <p style="line-height: 1.7; margin-bottom: 20px;">

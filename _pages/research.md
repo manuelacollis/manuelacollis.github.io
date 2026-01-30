@@ -92,9 +92,6 @@ redirect_from:
   </p>
 </div>
 
-<br>
-
-# Selected Work in Progress
 
 <div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 40px;">
   <div style="font-size: 1.05em; margin-bottom: 8px;">
@@ -102,9 +99,30 @@ redirect_from:
     <span style="font-size: 0.95em;">with <a href="https://sites.google.com/site/vaneffenterreclementine/home">Clémentine Van Effenterre</a></span>
   </div>
   
-  <p style="font-size: 0.95em; line-height: 1.6; color: #333;"><b><i>Abstract:</i></b> We propose a laboratory experiment to explore how hostile work environment impacts individual and group performance differentially by gender. We study behaviors in a contribution game with five rounds. Our experiment has two levels of randomization. After completing a baseline performance measurement, individuals are randomly assigned to a group of 4. The gender composition of the group varies accordingly to two treatments: 1F3M, 3F1M. The quality of the work environment in the experiment is randomized to be either friendly or unfriendly and is randomized at the group level. Participants are able to communicate with their team members and the variation in work environment is introduced by the content of messages. Participants are able to select one or more messages among twelve pre-specified messages. They can also decide not to send any messages. These messages are noisy in the sense that a computer sometimes augments a group member and sends a message on their behalf. We test the effect of hostility on individuals' contribution decisions and performance, individual's self-reported stress level, perception of the quality of the work environment, and likelihood of participating in the experiment again. In the last part of the main experiment, we elicit their willingness-to-pay for payoff scheme, quality of exchange, and location.</p>
+  <p style="font-size: 0.95em; line-height: 1.6; color: #333;"><b><i>Abstract:</i></b> Workplace culture is a well-established driver of long-term organizational success. Using a controlled experiment, we explore whether hostile work environments impact individual and group performance. Participants are randomly assigned to groups with varying gender composition, where they complete rounds of quizzes. In each round, group members decide whether to nominate their own performance to count toward the group's payoff. The work environment is manipulated to be either friendly or unfriendly through pre-specified messages that group members can send to one another after each round. We find that individuals who work in a hostile and majority-men team earn less. This result is not explained by changes in quiz performance, but by nomination decisions. Men tend to make suboptimal nomination decisions under hostility, in particular by being over-confident in their own nomination. Using an incentive-compatible choice experiment, we find that the experience of hostile interactions increases the willingness-to-pay for working conditions in which these interactions will be mitigated, particularly for male respondents.</p>
+    <p style="margin-top: 12px; font-style: italic; font-size: 0.95em;">
+    Draft available upon request
+  </p>
   
   <p style="margin-top: 12px;">
     <a href="https://www.socialscienceregistry.org/trials/14927" style="display: inline-block; padding: 6px 14px; border: 1.5px solid #7B6D68; background-color: #f5f3f2; color: #7B6D68; text-decoration: none; border-radius: 4px; font-size: 0.9em; transition: all 0.2s;">AEA Registry</a>
   </p>
 </div>
+
+<br>
+
+
+# Selected Work in Progress
+
+<div style="border-left: 3px solid #7B6D68; padding-left: 20px; margin-bottom: 40px;">
+  <div style="font-size: 1.05em; margin-bottom: 8px;">
+    <strong>How Does Exposure to Sexual Harassment Affect Junior Researchers' Training and Career Trajectories?</strong><br>
+    <span style="font-size: 0.95em;">with <a href="https://www.gaurisubramani.com/">Gauri Subramani</a> and <a href="https://www.vlerick.com/en/find-faculty-and-experts/andreea-gorbatai/">Andreea Gorbatai</a></span>
+  </div>
+  
+  <p style="font-size: 0.95em; line-height: 1.6; color: #333;"><b><i>Abstract:</i></b> Sexual harassment in academic settings creates hostile environments that may have lasting consequences beyond the direct targets. While prior research has examined harassment's effects on scientific production at the team level, less is known about how exposure to harassment shapes the experiences and outcomes of junior researchers—such as research assistants and doctoral students—who are in critical stages of skill development and career formation. In this paper, we examine how working in a team where sexual harassment occurred affects juniors' training experiences and subsequent career choices. By focusing on this vulnerable population, we aim to shed light on the mechanisms through which hostile environments disrupt talent pipelines and impede human capital development in science. Our findings have implications for understanding the full costs of workplace misconduct and for designing interventions that protect the next generation of researchers.</p>
+  <p style="margin-top: 12px; font-style: italic; font-size: 0.95em;">
+    Draft available soon
+  </p>
+</div>
+
