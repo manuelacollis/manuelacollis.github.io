@@ -20,6 +20,10 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.7; margin-bottom: 20px;">
+  I am co-organizer of the IGL Masterclass on designing field experiments which is an expansion of the Strategy & Field Exeriment Conference and part of the Innovation Growth Lab.
+</p>
+
+<p style="line-height: 1.7; margin-bottom: 20px;">
   I will join <a href="https://www.heinz.cmu.edu/">Carnegie Mellon University (Heinz College)</a>
   as an Assistant Professor in July 2026.
 </p>
