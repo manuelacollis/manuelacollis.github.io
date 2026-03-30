@@ -727,7 +727,7 @@
   <div class="slogan">We don't have writer's block. We have writer's crawl.</div>
   <div class="tz-badge" id="tzBadge" onclick="openTzModal()">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a15 15 0 010 20M12 2a15 15 0 000 20M2 12h20"/></svg>
-    <span id="tzLabel">Detecting timezone…</span>
+    <span id="tzLabel">Loading timezone…</span>
   </div>
 </header>
 
@@ -856,6 +856,10 @@ function showContent() {
   gateOverlay.classList.add('hidden');
   pageContent.classList.add('visible');
   renderSchedule();
+  // If timezone wasn't detected, prompt the user to pick one
+  if (!tzDetected) {
+    setTimeout(() => openTzModal(), 600);
+  }
 }
 
 // Check if already authenticated
@@ -955,7 +959,15 @@ const SCHEDULE = [
 ];
 
 // ─── Timezone ───
-let currentTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+let currentTz;
+let tzDetected = true;
+try {
+  currentTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  if (!currentTz) throw new Error('No timezone');
+} catch(e) {
+  currentTz = 'Europe/London';
+  tzDetected = false;
+}
 
 function decimalToDate(dh, dateStr) {
   const h = Math.floor(dh);
@@ -987,7 +999,10 @@ function friendlyTz(tz) {
 function renderSchedule() {
   const c = document.getElementById('scheduleContainer');
   c.innerHTML = '';
-  document.getElementById('tzLabel').textContent = `Showing in ${friendlyTz(currentTz)}`;
+  const tzLabelText = tzDetected
+    ? `Showing in ${friendlyTz(currentTz)}`
+    : `Choose your timezone (defaulting to London)`;
+  document.getElementById('tzLabel').textContent = tzLabelText;
   document.getElementById('overviewHours').textContent =
     `${fmtTime(decimalToDate(9,'2026-03-31'),currentTz)} – ${fmtTime(decimalToDate(17,'2026-03-31'),currentTz)}`;
 
@@ -1051,6 +1066,7 @@ function closeTzModal() { document.getElementById('tzModal').classList.remove('a
 
 function applyTz() {
   currentTz = document.getElementById('tzSelect').value;
+  tzDetected = true;
   renderSchedule();
   closeTzModal();
 }
