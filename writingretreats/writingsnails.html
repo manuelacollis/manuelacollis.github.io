@@ -913,10 +913,7 @@ function showContent() {
   }
 }
 
-// Check if already authenticated
-if (getCookie(COOKIE_NAME) === 'yes') {
-  showContent();
-}
+// Cookie check is at the end of the script, after all data and functions are defined.
 
 function unlock() {
   if (gateInput.value.trim().toLowerCase() === GATE_HASH) {
@@ -1163,6 +1160,11 @@ function closeTzModal() { document.getElementById('tzModal').classList.remove('a
 document.getElementById('tzModal').addEventListener('click', function(e) {
   if (e.target===this) closeTzModal();
 });
+
+// ─── Init: check if already authenticated ───
+if (getCookie(COOKIE_NAME) === 'yes') {
+  showContent();
+}
 </script>
 
 </body>
