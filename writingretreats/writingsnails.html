@@ -243,6 +243,17 @@
     color: var(--ink-light);
   }
 
+  .tz-badge.needs-attention {
+    border-color: var(--moss);
+    color: var(--moss);
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(62,94,63,0.2); }
+    50% { box-shadow: 0 0 0 6px rgba(62,94,63,0); }
+  }
+
   .tz-badge svg {
     width: 13px;
     height: 13px;
@@ -647,6 +658,44 @@
     cursor: pointer;
   }
 
+  .tz-search {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 14px;
+    background: white;
+    color: var(--ink);
+    margin-bottom: 8px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .tz-search:focus { border-color: var(--moss); }
+
+  .tz-list {
+    max-height: 240px;
+    overflow-y: auto;
+    border: 1px solid var(--border-light);
+    border-radius: 8px;
+    margin-bottom: 14px;
+    background: white;
+  }
+
+  .tz-option {
+    padding: 8px 14px;
+    font-size: 13px;
+    color: var(--ink-light);
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-light);
+    transition: background 0.1s;
+  }
+
+  .tz-option:last-child { border-bottom: none; }
+  .tz-option:hover { background: var(--moss-bg); color: var(--moss); }
+  .tz-option.active { background: var(--moss-bg); color: var(--moss); font-weight: 500; }
+
   .tz-modal-buttons {
     display: flex;
     gap: 8px;
@@ -727,7 +776,7 @@
   <div class="slogan">We don't have writer's block. We have writer's crawl.</div>
   <div class="tz-badge" id="tzBadge" onclick="openTzModal()">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a15 15 0 010 20M12 2a15 15 0 000 20M2 12h20"/></svg>
-    <span id="tzLabel">Loading timezone…</span>
+    <span id="tzLabel">Times shown in London (BST)</span>
   </div>
 </header>
 
@@ -821,10 +870,11 @@
 <div class="tz-modal-overlay" id="tzModal">
   <div class="tz-modal">
     <h3>Change timezone</h3>
-    <select id="tzSelect"></select>
+    <p style="font-size:13px;color:var(--ink-faint);margin-bottom:12px;">Type to search, or scroll to find your city.</p>
+    <input type="text" id="tzSearch" class="tz-search" placeholder="Start typing a city…" autocomplete="off">
+    <div class="tz-list" id="tzList"></div>
     <div class="tz-modal-buttons">
       <button onclick="closeTzModal()">Cancel</button>
-      <button class="primary" onclick="applyTz()">Apply</button>
     </div>
   </div>
 </div>
@@ -855,10 +905,11 @@ const pageContent = document.getElementById('pageContent');
 function showContent() {
   gateOverlay.classList.add('hidden');
   pageContent.classList.add('visible');
-  renderSchedule();
-  // If timezone wasn't detected, prompt the user to pick one
-  if (!tzDetected) {
-    setTimeout(() => openTzModal(), 600);
+  renderSchedule(); // Renders in London first
+  // If we detected a different timezone, switch to it
+  if (detectedTz && detectedTz !== 'Europe/London') {
+    currentTz = detectedTz;
+    renderSchedule();
   }
 }
 
@@ -959,15 +1010,43 @@ const SCHEDULE = [
 ];
 
 // ─── Timezone ───
-let currentTz;
-let tzDetected = true;
+// Default to London. Then try to detect local timezone.
+let currentTz = 'Europe/London';
+let detectedTz = null;
 try {
-  currentTz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-  if (!currentTz) throw new Error('No timezone');
-} catch(e) {
-  currentTz = 'Europe/London';
-  tzDetected = false;
+  const d = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  if (d) detectedTz = d;
+} catch(e) {}
+
+const COMMON_ZONES = [
+  'Pacific/Auckland','Australia/Sydney','Australia/Perth',
+  'Asia/Tokyo','Asia/Shanghai','Asia/Hong_Kong','Asia/Singapore',
+  'Asia/Kolkata','Asia/Dubai','Asia/Jerusalem',
+  'Africa/Cairo','Africa/Nairobi','Africa/Johannesburg',
+  'Europe/Moscow','Europe/Istanbul','Europe/Helsinki',
+  'Europe/Athens','Europe/Bucharest',
+  'Europe/Berlin','Europe/Zurich','Europe/Vienna','Europe/Amsterdam',
+  'Europe/Brussels','Europe/Paris','Europe/Rome','Europe/Madrid',
+  'Europe/London','Europe/Dublin','Europe/Lisbon',
+  'Atlantic/Reykjavik',
+  'America/Sao_Paulo','America/Buenos_Aires',
+  'America/New_York','America/Toronto',
+  'America/Chicago','America/Denver',
+  'America/Los_Angeles','America/Vancouver',
+  'America/Anchorage','Pacific/Honolulu'
+];
+
+function getAllZones() {
+  try {
+    if (typeof Intl !== 'undefined' && typeof Intl.supportedValuesOf === 'function') {
+      const z = Intl.supportedValuesOf('timeZone');
+      if (z && z.length > 0) return z;
+    }
+  } catch(e) {}
+  return COMMON_ZONES;
 }
+
+const allZones = getAllZones();
 
 function decimalToDate(dh, dateStr) {
   const h = Math.floor(dh);
@@ -999,10 +1078,8 @@ function friendlyTz(tz) {
 function renderSchedule() {
   const c = document.getElementById('scheduleContainer');
   c.innerHTML = '';
-  const tzLabelText = tzDetected
-    ? `Showing in ${friendlyTz(currentTz)}`
-    : `Choose your timezone (defaulting to London)`;
-  document.getElementById('tzLabel').textContent = tzLabelText;
+  const tzLabelEl = document.getElementById('tzLabel');
+  tzLabelEl.textContent = `Showing in ${friendlyTz(currentTz)}`;
   document.getElementById('overviewHours').textContent =
     `${fmtTime(decimalToDate(9,'2026-03-31'),currentTz)} – ${fmtTime(decimalToDate(17,'2026-03-31'),currentTz)}`;
 
@@ -1045,31 +1122,43 @@ function renderSchedule() {
   });
 }
 
-// ─── TZ Modal ───
-function openTzModal() {
-  const sel = document.getElementById('tzSelect');
-  if (!sel.options.length) {
-    const zones = Intl.supportedValuesOf
-      ? Intl.supportedValuesOf('timeZone')
-      : ['America/Los_Angeles','America/New_York','America/Toronto','Europe/London','Europe/Zurich','Europe/Berlin','Europe/Paris','Asia/Kolkata','Asia/Tokyo','Australia/Sydney'];
-    zones.forEach(tz => {
-      const o = document.createElement('option');
-      o.value = tz; o.textContent = tz.replace(/_/g,' ');
-      if (tz===currentTz) o.selected = true;
-      sel.appendChild(o);
+// ─── TZ Modal (searchable) ───
+function renderTzList(filter) {
+  const list = document.getElementById('tzList');
+  const query = (filter || '').toLowerCase();
+  const filtered = query
+    ? allZones.filter(tz => tz.toLowerCase().replace(/_/g,' ').includes(query))
+    : allZones;
+  const shown = filtered.slice(0, 60); // Cap for performance
+  list.innerHTML = shown.map(tz => {
+    const label = tz.replace(/_/g, ' ');
+    const isActive = tz === currentTz ? ' active' : '';
+    return `<div class="tz-option${isActive}" data-tz="${tz}">${label}</div>`;
+  }).join('');
+  // Click handlers
+  list.querySelectorAll('.tz-option').forEach(el => {
+    el.addEventListener('click', () => {
+      currentTz = el.dataset.tz;
+      document.getElementById('tzBadge').classList.remove('needs-attention');
+      renderSchedule();
+      closeTzModal();
     });
-  }
-  document.getElementById('tzModal').classList.add('active');
+  });
 }
+
+function openTzModal() {
+  const search = document.getElementById('tzSearch');
+  search.value = '';
+  renderTzList('');
+  document.getElementById('tzModal').classList.add('active');
+  setTimeout(() => search.focus(), 100);
+}
+
+document.getElementById('tzSearch').addEventListener('input', function() {
+  renderTzList(this.value);
+});
 
 function closeTzModal() { document.getElementById('tzModal').classList.remove('active'); }
-
-function applyTz() {
-  currentTz = document.getElementById('tzSelect').value;
-  tzDetected = true;
-  renderSchedule();
-  closeTzModal();
-}
 
 document.getElementById('tzModal').addEventListener('click', function(e) {
   if (e.target===this) closeTzModal();
