@@ -133,6 +133,15 @@ small { color: var(--muted); }
   border-bottom: none;
   letter-spacing: 0.01em;
 }
+.brand .brand-mark {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: var(--carnegie-red);
+  margin-right: 10px;
+  vertical-align: 1px;
+  border-radius: 50%;   /* circle — reads cleaner than a rounded square */
+}
 .nav-links {
   display: flex;
   gap: 28px;
