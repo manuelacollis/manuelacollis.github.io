@@ -1,0 +1,29 @@
+{% extends "_layout.html.j2" %}
+{% block content %}
+  <section class="page-intro">
+    <div class="container content-narrow">
+      <span class="eyebrow">Curriculum Vitae</span>
+      <h1>CV</h1>
+      <p>{{ cv.intro_html | safe }}</p>
+    </div>
+  </section>
+
+  <section style="padding-top: 32px;">
+    <div class="container">
+      <div class="cv-actions">
+        <a class="btn btn-primary" href="{{ cv.pdf_path }}?v={{ cv.pdf_v }}" download="{{ cv.download_filename }}">Download PDF</a>
+        <a class="btn" href="{{ cv.pdf_path }}?v={{ cv.pdf_v }}" target="_blank" rel="noopener">Open in new tab</a>
+      </div>
+
+      <div class="cv-pages" aria-label="Curriculum Vitae — preview of all pages">
+        {% for img in cv.pages %}
+        <img src="{{ img.path }}?v={{ img.v }}" alt="CV page {{ loop.index }}" loading="{% if loop.first %}eager{% else %}lazy{% endif %}" />
+        {% endfor %}
+      </div>
+
+      <p style="font-size: 0.9rem; color: var(--muted); text-align: center; margin-top: 18px;">
+        For the searchable, copyable text, <a href="{{ cv.pdf_path }}?v={{ cv.pdf_v }}" target="_blank" rel="noopener">open the PDF</a> or use the Download button above.
+      </p>
+    </div>
+  </section>
+{% endblock %}

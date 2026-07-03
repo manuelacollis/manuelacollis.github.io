@@ -1,0 +1,73 @@
+{% extends "_layout.html.j2" %}
+
+{%- macro paper_card(p) -%}
+        <article class="paper">
+          <h2 class="paper-title">{{ p.title }}{% if p.get('tag') %} <span class="tag">{{ p.tag }}</span>{% endif %}</h2>
+          {% if p.get('venue') %}<div class="paper-meta">{{ p.venue_html | safe }}</div>{% endif %}
+          {% if p.get('authors') %}<div class="paper-coauthors">{{ p.authors_html | safe }}</div>{% endif %}
+          <p class="paper-abstract">
+            <span class="abs-label">Abstract.</span>
+            {{ p.abstract_html | safe }}
+          </p>
+          {% if p.get('links') or p.get('bibtex') %}
+          <div class="paper-links">
+            {% for l in p.get('links', []) %}
+            <a class="btn btn-sm" href="{{ l.url }}">{{ l.label }}</a>
+            {% endfor %}
+            {% if p.get('bibtex') %}
+            <button class="btn btn-sm btn-bibtex" type="button" aria-label="Copy BibTeX citation to clipboard">Copy BibTeX</button>
+            <pre class="paper-bibtex" hidden>{{ p.bibtex | trim | e }}</pre>
+            {% endif %}
+          </div>
+          {% endif %}
+          {% if p.get('note') %}<p class="paper-note">{{ p.note }}</p>{% endif %}
+        </article>
+{%- endmacro -%}
+
+{% block content %}
+  <section class="page-intro">
+    <div class="container content-narrow">
+      <span class="eyebrow">Publications &amp; Working Papers</span>
+      <h1>Research</h1>
+      <p>
+        {{ research.intro_html | safe }}
+      </p>
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section class="accent-red">
+    <div class="container content-narrow">
+      <div class="section-title">Publications</div>
+      <div class="research-list">
+        {% for p in research.publications %}
+        {{ paper_card(p) }}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- WORKING PAPERS -->
+  <section class="accent-green">
+    <div class="container content-narrow">
+      <div class="section-title">Working Papers</div>
+      <div class="research-list">
+        {% for p in research.working_papers %}
+        {{ paper_card(p) }}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- WORK IN PROGRESS -->
+  <section class="accent-navy">
+    <div class="container content-narrow">
+      <div class="section-title">Selected Work in Progress</div>
+      <div class="research-list">
+        {% for p in research.work_in_progress %}
+        {{ paper_card(p) }}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endblock %}

@@ -3,33 +3,33 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CV — Manuela R. Collis</title>
-  <meta name="description" content="Curriculum vitae of Manuela R. Collis." />
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ page_description }}" />
 
-  
-  <link rel="canonical" href="https://manuelacollis.com/cv.html" />
+  {# Canonical URL — required for SEO and used by og:url. #}
+  <link rel="canonical" href="{{ site.url }}/{{ page_path }}" />
 
-  
+  {# Favicon — Carnegie Red "MC" monogram. #}
   <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
 
-  
+  {# Open Graph (Facebook, LinkedIn, iMessage, Slack, ...). #}
   <meta property="og:type" content="profile" />
-  <meta property="og:site_name" content="Manuela R. Collis" />
-  <meta property="og:title" content="CV — Manuela R. Collis" />
-  <meta property="og:description" content="Curriculum vitae of Manuela R. Collis." />
-  <meta property="og:url" content="https://manuelacollis.com/cv.html" />
-  <meta property="og:image" content="https://manuelacollis.com/assets/og-image.jpg" />
+  <meta property="og:site_name" content="{{ person.name }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:description" content="{{ page_description }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page_path }}" />
+  <meta property="og:image" content="{{ site.url }}/{{ site.og_image }}" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:image:alt" content="Manuela R. Collis — Assistant Professor, Carnegie Mellon University." />
 
-  
+  {# Twitter / X large-image card. #}
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="CV — Manuela R. Collis" />
-  <meta name="twitter:description" content="Curriculum vitae of Manuela R. Collis." />
-  <meta name="twitter:image" content="https://manuelacollis.com/assets/og-image.jpg" />
+  <meta name="twitter:title" content="{{ page_title }}" />
+  <meta name="twitter:description" content="{{ page_description }}" />
+  <meta name="twitter:image" content="{{ site.url }}/{{ site.og_image }}" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -51,12 +51,12 @@
 
 <header class="site-header">
   <nav class="nav" aria-label="Primary">
-    <a class="brand" href="index.html"><span class="brand-mark"></span>Manuela R. Collis</a>
+    <a class="brand" href="index.html"><span class="brand-mark"></span>{{ person.name }}</a>
     <div class="nav-right">
       <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="research.html">Research</a></li>
-        <li><a href="cv.html" class="active">CV</a></li>
+        <li><a href="index.html"{% if page == 'home' %} class="active"{% endif %}>Home</a></li>
+        <li><a href="research.html"{% if page == 'research' %} class="active"{% endif %}>Research</a></li>
+        <li><a href="cv.html"{% if page == 'cv' %} class="active"{% endif %}>CV</a></li>
       </ul>
       <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle dark mode" title="Toggle dark mode">
         <svg class="icon-sun"  viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 4.5a1 1 0 0 1-1-1V2a1 1 0 1 1 2 0v1.5a1 1 0 0 1-1 1zm0 18a1 1 0 0 1-1-1V20a1 1 0 1 1 2 0v1.5a1 1 0 0 1-1 1zm9.5-9.5h-1.5a1 1 0 1 1 0-2H21.5a1 1 0 1 1 0 2zm-18 0H2a1 1 0 1 1 0-2h1.5a1 1 0 1 1 0 2zm14.42-7.16a1 1 0 0 1 0-1.42l1.06-1.06a1 1 0 1 1 1.42 1.42l-1.06 1.06a1 1 0 0 1-1.42 0zM4.6 20.4a1 1 0 0 1 0-1.42l1.06-1.06a1 1 0 1 1 1.42 1.42L6.02 20.4a1 1 0 0 1-1.42 0zm14.8 0-1.06-1.06a1 1 0 1 1 1.42-1.42l1.06 1.06a1 1 0 1 1-1.42 1.42zM4.6 3.6 5.66 4.66A1 1 0 1 1 4.24 6.08L3.18 5.02A1 1 0 1 1 4.6 3.6zM12 7a5 5 0 1 0 0 10A5 5 0 0 0 12 7z"/></svg>
@@ -67,49 +67,12 @@
 </header>
 
 <main>
-
-  <section class="page-intro">
-    <div class="container content-narrow">
-      <span class="eyebrow">Curriculum Vitae</span>
-      <h1>CV</h1>
-      <p>A current PDF copy of my CV is available below. For the most up-to-date list of working papers, please see the <a href="research.html">Research</a> page.</p>
-    </div>
-  </section>
-
-  <section style="padding-top: 32px;">
-    <div class="container">
-      <div class="cv-actions">
-        <a class="btn btn-primary" href="files/CV_Manuela_Collis.pdf?v=1783046400" download="CV_Manuela_Collis.pdf">Download PDF</a>
-        <a class="btn" href="files/CV_Manuela_Collis.pdf?v=1783046400" target="_blank" rel="noopener">Open in new tab</a>
-      </div>
-
-      <div class="cv-pages" aria-label="Curriculum Vitae — preview of all pages">
-        
-        <img src="assets/cv/cv-page-01.png?v=1783113856" alt="CV page 1" loading="eager" />
-        
-        <img src="assets/cv/cv-page-02.png?v=1783113856" alt="CV page 2" loading="lazy" />
-        
-        <img src="assets/cv/cv-page-03.png?v=1783113856" alt="CV page 3" loading="lazy" />
-        
-        <img src="assets/cv/cv-page-04.png?v=1783113856" alt="CV page 4" loading="lazy" />
-        
-        <img src="assets/cv/cv-page-05.png?v=1783113856" alt="CV page 5" loading="lazy" />
-        
-        <img src="assets/cv/cv-page-06.png?v=1783113856" alt="CV page 6" loading="lazy" />
-        
-      </div>
-
-      <p style="font-size: 0.9rem; color: var(--muted); text-align: center; margin-top: 18px;">
-        For the searchable, copyable text, <a href="files/CV_Manuela_Collis.pdf?v=1783046400" target="_blank" rel="noopener">open the PDF</a> or use the Download button above.
-      </p>
-    </div>
-  </section>
-
+{% block content %}{% endblock %}
 </main>
 
 <footer class="site-footer">
   <div class="container footer-row">
-    <div>© <span id="yr"></span> Manuela R. Collis</div>
+    <div>© <span id="yr"></span> {{ person.name }}</div>
   </div>
 </footer>
 

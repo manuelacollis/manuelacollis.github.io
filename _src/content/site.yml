@@ -1,0 +1,198 @@
+# =============================================================
+# All editable site content lives here. Edit this file, then run:
+#   python3 tools/build.py
+# to regenerate index.html, research.html, and cv.html.
+#
+# Markdown link syntax works in any string field:
+#   [Visible text](https://url)
+# Multi-line text blocks use a leading "|":
+#   abstract: |
+#     First paragraph.
+#
+#     Second paragraph.
+# =============================================================
+
+# ------------- Site-wide -------------
+site:
+  url: "https://manuelacollis.com"   # canonical base; used for og:url and sitemap
+  og_image: "assets/og-image.jpg"    # 1200x630 social-preview card
+
+# ------------- Identity / contact -------------
+person:
+  name: "Manuela R. Collis"
+  title: "Assistant Professor"
+  affiliation_html: "Heinz College of Information Systems, Public Policy, and Management"
+  university: "Carnegie Mellon University"
+  portrait: "assets/portrait.jpg"
+
+  # Email is split for obfuscation. Build script base64-encodes
+  # them before they appear in HTML.
+  email_user: "mcollis"
+  email_domain: "cmu.edu"
+
+profiles:
+  scholar: "https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/manuelacollis/"
+  github: "https://github.com/manuelacollis"
+
+# Address tiles displayed below the Connect pills.
+# Order is preserved. The 1st gets the red rule, 2nd green, 3rd navy
+# (set by CSS via :nth-child). Leave as an empty list to hide the block.
+contact_tiles: []
+
+# ------------- Home page -------------
+home:
+  meta_description: >
+    Manuela R. Collis is Assistant Professor at Carnegie Mellon University's
+    Heinz College of Information Systems, Public Policy, and Management.
+    Her research examines how organizations, institutions, and norms shape
+    equal opportunity, knowledge work, and innovation.
+
+  hero_eyebrow: "Carnegie Mellon University · Heinz College"
+
+  hero_lede: >
+    I study how organizations, institutions, and norms shape equal
+    opportunity, knowledge work, and innovation.
+
+  about: |
+    I am an Assistant Professor at [Carnegie Mellon University's Heinz College of Information Systems, Public Policy, and Management](https://www.heinz.cmu.edu/).
+
+    I received my Ph.D. from the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/), where I was a PhD Fellow at the [Institute for Gender and the Economy (GATE)](https://www.gendereconomy.org/) and a 2024–25 graduate fellow of the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/). I hold an M.A. in Law and Diplomacy from the Fletcher School at Tufts University and a B.Sc. in Business Administration from the Bern University of Applied Sciences, Switzerland. Prior to my doctoral studies, I was a Research Associate at Harvard Business School.
+
+    I co-organize the IGL Masterclass on designing field experiments — an expansion of the Strategy & Field Experiments Conference, hosted by the Innovation Growth Lab.
+
+# ------------- Research page -------------
+research:
+  meta_description: >
+    Publications, working papers, and selected work in progress by
+    Manuela R. Collis.
+
+  intro: |
+    I work at the intersection of organizations, scientific institutions, and gender inequality. A complete list is also available on my [Google Scholar profile](https://scholar.google.com/citations?user=qgqzmMwAAAAJ&hl=en).
+
+  publications:
+    - title: "Whether to Apply"
+      # short_url uses lowercase (macOS/Dropbox is case-insensitive so we can
+      # only ship one case in the source folder). The 404 page has a smart
+      # redirect that catches case-mismatches — /WTP, /Wtp, /wTP all end up
+      # at /wtp automatically. short_url can be one slug or a list of slugs.
+      short_url: "wtp"
+      venue: "*Management Science*, 70(7): 4649–4669, 2024"
+      authors: "with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni"
+      abstract: |
+        Labor market outcomes depend, in part, upon an individual's willingness to put herself forward for different opportunities. We use a series of experiments to explore gender differences in willingness to apply for higher return, more challenging work. We find that, in male-typed domains, qualified women are significantly less likely to apply than similarly well-qualified men. We provide evidence both in a controlled setting and in the field that reducing ambiguity surrounding required qualifications increases the rate at which qualified women apply. The effects are more mixed for men. Our results suggest a path for increasing the pool of qualified women applicants.
+      links:
+        - { label: "Final Version (PDF)", url: "http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_MS_Apply.pdf" }
+        - { label: "Publication", url: "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4907" }
+        - { label: "Replication Files", url: "https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2023.4907" }
+      bibtex: |
+        @article{coffman_collis_kulkarni_2024_apply,
+          title   = {Whether to Apply},
+          author  = {Coffman, Katherine Baldiga and Collis, Manuela R. and Kulkarni, Leena},
+          journal = {Management Science},
+          volume  = {70},
+          number  = {7},
+          pages   = {4649--4669},
+          year    = {2024},
+          doi     = {10.1287/mnsc.2023.4907}
+        }
+
+    - title: "Stereotypes and Belief Updating"
+      short_url: "stereotypes"     # manuelacollis.com/stereotypes → final PDF
+      venue: "*Journal of the European Economic Association*, 22(3): 1011–1054, 2024"
+      authors: "with [Katherine Baldiga Coffman](https://sites.google.com/site/kbaldigacoffman/) and Leena Kulkarni"
+      abstract: |
+        We explore how feedback shapes, and perpetuates, gender gaps in self-assessments. Participants in our experiments take tests of their ability across different domains. Absent feedback, beliefs of own ability are strongly influenced by gender stereotypes: holding own ability fixed, individuals are more confident in more gender-congruent domains. After feedback, stereotypes continue to shape posterior beliefs, even beyond what a Bayesian model would predict. This is primarily because both men and women update their beliefs more positively in response to good news when it arrives in a more gender-congruent domain.
+      links:
+        - { label: "Final Version (PDF)", url: "http://manuelacollis.github.io/files/Coffman_Collis_Kulkarni_2024_JEEA_Stereotypes.pdf" }
+        - { label: "Publication", url: "https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvad063/7333976" }
+      bibtex: |
+        @article{coffman_collis_kulkarni_2024_stereotypes,
+          title   = {Stereotypes and Belief Updating},
+          author  = {Coffman, Katherine Baldiga and Collis, Manuela R. and Kulkarni, Leena},
+          journal = {Journal of the European Economic Association},
+          volume  = {22},
+          number  = {3},
+          pages   = {1011--1054},
+          year    = {2024},
+          doi     = {10.1093/jeea/jvad063}
+        }
+
+  working_papers:
+    - title: "Sexual Misconduct and Scientific Production"
+      short_url: "misconduct"      # manuelacollis.com/misconduct → paper draft
+      abstract: |
+        While sexual misconduct in the workplace has complex and lasting consequences for directly affected individuals, its broader organizational implications remain less well understood. Using a novel dataset of over 1,000 documented sexual misconduct cases across U.S. universities, I examine how these publicly reported incidents affect departmental scientific productivity. I record the year sexual misconduct occurs and the year it becomes public, and employ coarsened exact matching with a staggered difference-in-differences design. Sexual misconduct shows no discernible effect on departmental productivity when it occurs, but public reporting reduces publications by 0.1 per faculty member annually — equivalent to nine fewer publications over five years for a median department of 18 members. These findings reveal that organizational costs arise specifically from public disclosure rather than from the misconduct itself, suggesting that protecting victims and maintaining productivity may require differentiated policy approaches.
+      links:
+        - { label: "Paper Draft", url: "http://manuelacollis.github.io/files/JMP_Collis_Misconduct_Scientific_Production.pdf" }
+        - { label: "OSF Registry", url: "https://osf.io/zx3gu" }
+      bibtex: |
+        @unpublished{collis_misconduct_2026,
+          title  = {Sexual Misconduct and Scientific Production},
+          author = {Collis, Manuela R.},
+          year   = {2026},
+          note   = {Working paper}
+        }
+
+    - title: "Workplace Hostility"
+      short_url: "hostility"       # manuelacollis.com/hostility → paper draft
+      tag: "Submitted"
+      authors: "with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)"
+      abstract: |
+        We investigate how much individuals value workplaces free of hostility and how these preferences affect sorting in the labor market. We conduct a choice experiment with 2,048 alums and recent graduates of a large public university. Individuals are willing to forgo between 12 and 36 percent of their wage to avoid hostile work environments. Women exhibit a stronger aversion to exclusionary workplaces and environments with sexual harassment. Combining survey evidence, experimental variation in workplace environments, and real labor market outcomes, we show that disutility from workplace hostility and perceptions of risk are consequential for gender gaps in career choices. Using a model of compensating differentials and counterfactual exercises, we find that gender differences in workplace hostility risks significantly drive both the remote pay penalty and the rents of office workers.
+      links:
+        - { label: "Paper Draft", url: "http://manuelacollis.github.io/files/Collis_Van_Effenterre_Workplace_Hostility_2026.pdf" }
+        - { label: "AEA Registry", url: "https://www.socialscienceregistry.org/trials/11438" }
+      bibtex: |
+        @unpublished{collis_van_effenterre_hostility_2025,
+          title  = {Workplace Hostility},
+          author = {Collis, Manuela R. and Van Effenterre, Cl{\'e}mentine},
+          year   = {2026},
+          note   = {Submitted}
+        }
+
+    - title: "Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification"
+      abstract: |
+        Gender diversity is a key driver of the rate and direction of innovative activities, but we know little about how to achieve it. I look at the pipeline of potential female inventors and study women's decisions to complete graduate school and their propensity and intensity to publish under two different institutional and normative settings. To explore this, I turn to the German reunification in 1990 as my empirical setting. Using a newly assembled dataset of German Ph.D. graduates in STEM fields, I show that East Germany graduates significantly and persistently more women doctorates than West Germany. A difference-in-difference approach infers that the change in institutions, policies, and norms increases the gender gap in the intensity to publish. The case study offers insights into how to increase gender diversity in science.
+      note: "Draft available upon request."
+      bibtex: |
+        @unpublished{collis_german_reunification_2026,
+          title  = {Institutional Determinants of Gender Diversity in Science: Evidence from the German Reunification},
+          author = {Collis, Manuela R.},
+          year   = {2026},
+          note   = {Working paper}
+        }
+
+    - title: "Productivity under Hostility"
+      authors: "with [Clémentine Van Effenterre](https://sites.google.com/site/vaneffenterreclementine/home)"
+      abstract: |
+        Workplace culture is a well-established driver of long-term organizational success. Using a controlled experiment, we explore whether hostile work environments impact individual and group performance. Participants are randomly assigned to groups with varying gender composition, where they complete rounds of quizzes; in each round, group members decide whether to nominate their own performance to count toward the group's payoff. The work environment is manipulated to be friendly or unfriendly through pre-specified messages. Individuals who work in a hostile and majority-men team earn less. The result is not explained by changes in quiz performance, but by nomination decisions. An incentive-compatible choice experiment further shows that the experience of hostile interactions increases the willingness to pay for working conditions in which these interactions will be mitigated, particularly for male respondents.
+      links:
+        - { label: "AEA Registry", url: "https://www.socialscienceregistry.org/trials/14927" }
+      note: "Draft available upon request."
+      bibtex: |
+        @unpublished{collis_van_effenterre_productivity_2026,
+          title  = {Productivity under Hostility},
+          author = {Collis, Manuela R. and Van Effenterre, Cl{\'e}mentine},
+          year   = {2026},
+          note   = {Working paper}
+        }
+
+  # Convention: work-in-progress entries omit the `bibtex:` field —
+  # nothing stable to cite yet. Add a bibtex block here only once a
+  # paper graduates to working-paper status.
+  work_in_progress:
+    - title: "How Does Exposure to Sexual Harassment Affect Junior Researchers' Training and Career Trajectories?"
+      authors: "with [Gauri Subramani](https://www.gaurisubramani.com/) and [Andreea Gorbatai](https://www.vlerick.com/en/find-faculty-and-experts/andreea-gorbatai/)"
+      abstract: |
+        Sexual harassment in academic settings creates hostile environments that may have lasting consequences beyond the direct targets. While prior research has examined harassment's effects on scientific production at the team level, less is known about how exposure shapes the experiences and outcomes of junior researchers — research assistants and doctoral students — in critical stages of skill development and career formation. We examine how working in a team where harassment occurred affects juniors' training experiences and subsequent career choices, with implications for understanding the full costs of workplace misconduct and for designing interventions that protect the next generation of researchers.
+      note: "Draft available soon."
+
+# ------------- CV page -------------
+cv:
+  meta_description: "Curriculum vitae of Manuela R. Collis."
+  pdf_path: "files/CV_Manuela_Collis.pdf"
+  download_filename: "CV_Manuela_Collis.pdf"
+  intro: |
+    A current PDF copy of my CV is available below. For the most up-to-date list of working papers, please see the [Research](research.html) page.
+  # The number of pages is auto-detected from assets/cv/*.png.
