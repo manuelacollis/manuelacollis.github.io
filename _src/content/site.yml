@@ -144,7 +144,7 @@ research:
         - { label: "Paper Draft", url: "http://manuelacollis.github.io/files/Collis_Van_Effenterre_Workplace_Hostility_2026.pdf" }
         - { label: "AEA Registry", url: "https://www.socialscienceregistry.org/trials/11438" }
       bibtex: |
-        @unpublished{collis_van_effenterre_hostility_2025,
+        @unpublished{collis_van_effenterre_hostility_2026,
           title  = {Workplace Hostility},
           author = {Collis, Manuela R. and Van Effenterre, Cl{\'e}mentine},
           year   = {2026},
