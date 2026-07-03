@@ -133,15 +133,6 @@ small { color: var(--muted); }
   border-bottom: none;
   letter-spacing: 0.01em;
 }
-.brand .brand-mark {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  background: var(--carnegie-red);
-  margin-right: 10px;
-  vertical-align: 2px;
-  border-radius: 1px;
-}
 .nav-links {
   display: flex;
   gap: 28px;
